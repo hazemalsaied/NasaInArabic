@@ -1,0 +1,37 @@
+<ion-view view-title="posts">
+    <div class="bar bar-subheader   item-input-inset bar-light">
+        <label class="item-input-wrapper">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="search" ng-model="query" placeholder="Search">
+        </label>
+    </div>
+    <ion-content class="has-subheader">
+        <ion-list>
+            <ion-item ng-repeat="post in posts | filter: query" href="#/app/posts/{{post.id}}">
+                <div class="item ">
+                    <h2>{{post.title_plain}}</h2>
+                    <p>{{post.date |limitTo : 10 }}</p>
+                </div>
+
+                <div class="item item-body">
+                    <ion-item ng-show="post.attachments[0].url">
+                        <img class="full-image" ng-src="{{post.attachments[0].url}}" alt="{{post.attachments[0].captions}}" />
+
+                    </ion-item>
+                    <ion-item ng-bind-html='post.excerpt'></ion-item>
+                    <ion-item ng-repeat='cat in post.categories' href="#/app/cats/{{cat.id}}" class="item">
+                        {{cat.title}}
+                    </ion-item>
+                    <ion-item ng-repeat='tag in post.tags' href="#/app/tags/{{tag.id}}" class="item">
+                        {{tag.title}}
+                    </ion-item>
+
+                </div>
+
+            </ion-item>
+        </ion-list>
+
+        <ion-infinite-scroll on-infinite="loadMore()" distance="10%" spinner="spiral"> </ion-infinite-scroll>
+    </ion-content>
+   
+</ion-view>

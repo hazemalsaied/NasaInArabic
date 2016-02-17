@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+body.grade-a.platform-browser.platform-macintel.platform-ready {
+    text-align: right;
+    direction: rtl;
+}
+.icon, .badge {
+    left: 20px;
+    right: auto !important;
+}
+.item-text-wrap img {
+    max-width: 100%;
+}

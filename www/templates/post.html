@@ -1,0 +1,41 @@
+<ion-view view-title="{{post.title_plain}}">
+    
+    <ion-content >
+        
+        <ion-item ng-show="post.attachments[0].url" class="item item-image card">
+            <img ng-src="{{post.attachments[0].url}}" alt="{{post.attachments[0].captions}}" />
+        </ion-item>
+        <ion-item >
+            <div class=" item item-text-wrap">
+                {{post.date | limitTo: 10}}
+                <span class="badge  badge-assertive">
+                {{post.comment_count}}</span>
+            </div>
+        </ion-item>
+        <ion-item >
+          <div class="item item-text-wrap">
+            <div ng-bind-html='post.content'></div>    
+          </div>
+        </ion-item>
+        
+        <div class="list">
+            <div class="item item-divider">Categories</div>            
+            <ul class="list">
+                <li ng-repeat='cat in post.categories' class="item">
+                    <ion-item href="#/app/cat/{{cat.id}}">
+                        {{cat.title}}
+                    </ion-item>
+                </li>
+            </ul>
+            <div ng-show="post.tags.lenght > 0" class="item item-divider">Tags</div>
+            <ul ng-show="post.tags.lenght > 0" class="list">
+                <li ng-repeat='tag in post.tags' class="item">
+                    <ion-item href="#/app/tag/{{tag.id}}">
+                        {{tag.title}}
+                    </ion-item>
+                </li>
+            </ul>
+        </div>
+  </ion-content>
+
+</ion-view>
