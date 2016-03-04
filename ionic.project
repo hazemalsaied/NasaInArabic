@@ -1,10 +1,4 @@
 {
   "name": "FseApp",
-  "app_id": "c409a0e8",
-  "proxies": [
-    {
-      "path": "/api",
-      "proxyUrl": "http://fse-nancy.fr/api"
-    }
-  ]
+  "app_id": "c409a0e8"    
 }

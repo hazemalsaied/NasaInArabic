@@ -1,12 +1,143 @@
 /* Empty. Add your own CSS if you like */
-body.grade-a.platform-browser.platform-macintel.platform-ready {
+
+.splash {
+  background: url(../img/bkg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.home-page {
+  width: 60%;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+    color: white !important;
+}
+.home-page h1{
+    margin-bottom: 5em;
+}
+.home-page h1,.home-page h2,.home-page h4{
+    color: white !important;
+    
+}
+.move-to {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.item, body.grade-a.platform-browser.platform-macintel.platform-ready {
     text-align: right;
     direction: rtl;
 }
-.icon, .badge {
+
+.icon,
+.badge {
     left: 20px;
     right: auto !important;
 }
-.item-text-wrap img {
+
+.post-container a.item-content,
+.bckg-container{
+    background-color: #E9EAED !important;
+}
+
+.post-cat a.item-content.ng-binding {
+    background-color: white !important;
+}
+
+cat,
+tag {
+    color: black!important;
+    font-family: "Nassim", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif!important;
+    font-size: 15px !important;
+    font-weight: 200 !important;
+    line-height: 16px !important;
+}
+
+.post-title {
+    font-weight: 700 !important;
+    font-size: 20px;
+    line-height: 25PX;
+    color: #387ef5;
+}
+
+li.item.cat-container,
+ion-item.date-comments.item {
+    padding: 5px 16px;
+}
+
+p.post-date {
+    font-size: 11px !important;
+    color: gray !important;
+}
+
+a.cat {
+    font-size: 13px;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.post-title {
+    white-space: normal !important;
+}
+
+.item a{
+    color: #387ef5;
+}
+.item .post-content p , 
+.item .post-content ul, 
+.item .post-content ol {
+    font-size: 16px;
+    line-height: 23px;
+    margin: 15px 0;
+    color: black;
+    white-space: normal !important;
+}
+
+.item .post-content h1,
+.item .post-content h2,
+.item .post-content h3,
+.item .post-content h4,
+.item .post-content h5,
+.item .post-content h6 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #387ef5;
+    font-weight: bold;
+    line-height: 25px;
+    white-space: normal !important;
+}
+
+.post-content img {
     max-width: 100%;
+    margin: 10px 0;
+}
+
+.item .post-content a {
+    text-decoration: none;
+}
+
+.item .post-content blockquote {
+    font-style: italic;
+    color: gray;
+    background-color: #E9EAED ;
+}
+.item-complex .item-content {
+    padding: 16px !important;
+}
+input.ng-pristine.ng-untouched.ng-valid {
+    text-align: right;
+}
+.post-excerpt p {
+    margin-top: 0px;
+}
+.post-excerpt {
+    padding: 10px !important;
 }

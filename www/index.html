@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+<!--    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">-->
     <title></title>
 
     <link href="lib/ionic/css/ionic.css" rel="stylesheet">
@@ -14,28 +16,23 @@
 
     <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
-      <script src="lib/angular-sanitize/angular-sanitize.js"></script>
-<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.5.0/angular-locale_ar-sy.min.js"></script>-->
-
+    <script src="lib/angular-sanitize/angular-sanitize.js"></script>
     <!-- cordova script (this will be a 404 during development) -->
+    <script src="js/ng-cordova.min.js"></script>
+    <script src="js/ng-cordova.js"></script>
     <script src="cordova.js"></script>
 
+
+    <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.5.0/angular-locale_ar-sy.min.js"></script>-->
     <!-- your app's js -->
     <script src="js/app.js"></script>
     <script src="js/controllers.js"></script>
     <script src="js/services.js"></script>
-  </head>
+    
+</head>
 
-  <body ng-app="starter">
-    <ion-nav-view>
+<body ng-app="starter">
+    <ion-nav-view id="main-container"></ion-nav-view>
+</body>
 
-        
-      </ion-nav-view> 
-       <div class="tabs tabs-icon-left">
-            <a class="tab-item"><i class="icon ion-ios-pulse-strong"></i> Most populars</a>
-            <a class="tab-item" href="#/app/posts"><i class="icon ion-ios-timer-outline"></i> Most recents</a>
-            <a class="tab-item"><i class="icon ion-ios-color-wand"></i> Editor Choises</a>
-        </div> 
-      
-  </body>
 </html>

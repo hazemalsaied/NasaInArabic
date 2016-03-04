@@ -1,41 +1,61 @@
-<ion-view view-title="{{post.title_plain}}">
+<ion-view view-title="{{pageTitle}}">
     
-    <ion-content >
-        
+    <!--Post title-->
+    <div class="bar bar-subheader ">
+        <h2 ng-bind-html='post.title' class="title post-title"></h2>
+        <button class="button button-icon button-clear ion-android-share-alt"
+                ng-click="shareAnywhere(post.title, post.title, post.attachments[0].url, post.url)">
+        </button>
+    </div>
+    
+    <ion-content class="has-subheader posts bckg-container">
+
+        <!--Thumbnail-->
         <ion-item ng-show="post.attachments[0].url" class="item item-image card">
             <img ng-src="{{post.attachments[0].url}}" alt="{{post.attachments[0].captions}}" />
         </ion-item>
-        <ion-item >
+
+        <!--Post date and comments number-->
+        <ion-item class="date-comments bckg-container">
             <div class=" item item-text-wrap">
-                {{post.date | limitTo: 10}}
-                <span class="badge  badge-assertive">
+                <span class="date">
+                    {{post.date | limitTo: 10}}</span>
+                <span class="badge  badge-positive comments-num">
                 {{post.comment_count}}</span>
             </div>
         </ion-item>
-        <ion-item >
-          <div class="item item-text-wrap">
-            <div ng-bind-html='post.content'></div>    
-          </div>
+
+        <!--Post content-->
+        <ion-item class="post-content-container bckg-container">
+            <div ng-bind-html='post.content' class="item post-content"></div>
         </ion-item>
-        
-        <div class="list">
-            <div class="item item-divider">Categories</div>            
-            <ul class="list">
-                <li ng-repeat='cat in post.categories' class="item">
-                    <ion-item href="#/app/cat/{{cat.id}}">
-                        {{cat.title}}
-                    </ion-item>
-                </li>
-            </ul>
-            <div ng-show="post.tags.lenght > 0" class="item item-divider">Tags</div>
-            <ul ng-show="post.tags.lenght > 0" class="list">
-                <li ng-repeat='tag in post.tags' class="item">
-                    <ion-item href="#/app/tag/{{tag.id}}">
-                        {{tag.title}}
-                    </ion-item>
-                </li>
-            </ul>
+
+        <!--Categores and Tgas-->
+        <div class=" cats-tags bckg-container">
+            <li ng-repeat='cat in post.categories' class="item  cat-container bckg-container">
+                <ion-item href="#/app/cat/{{cat.id}}" class="cat">
+                    <i class="icon ion-pricetag"></i> {{cat.title}}
+                </ion-item>
+            </li>
+            <!--Tags-->
+            <li ng-show="post.tags" ng-repeat='tag in post.tags' class="item cat-container bckg-container">
+                <ion-item href="#/app/tag/{{tag.id}}" class="tag">
+                    <i class="icon ion-pricetags"></i> {{tag.title}}
+                </ion-item>
+            </li>
         </div>
-  </ion-content>
+
+        <!--Comments-->
+        <ion-item ng-show="post.comments" ng-repeat='comment in post.comments' class="item comment bckg-container">
+            <div class="list card">
+                <div class="item">
+                    <h2>{{comment.name | limitTo:10}}</h2>
+                    <p>{{comment.date}}</p>
+                </div>
+                <div ng-bind-html='comment.content' class=" item item-body comment-content"></div>
+            </div>
+        </ion-item>
+
+    </ion-content>
 
 </ion-view>
