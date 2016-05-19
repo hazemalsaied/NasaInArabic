@@ -1,5 +1,8 @@
-<ion-view view-title="{{pageTitle}}">
-    
+<ion-view>
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
+
     <!--Search Area-->
     <div class="bar bar-subheader item-input-inset bar-light">
         <label class="item-input-wrapper">
@@ -7,58 +10,78 @@
             <input type="search" ng-model="query" placeholder="بحث">
         </label>
     </div>
+
     <!--Posts-->
-    <ion-content class="has-subheader posts bckg-container">
+    <ion-slide-box does-continue="false" active-slide="activeSlide" show-pager="false" auto-play="false" on-slide-changed="refreshSlideInfo(index)">
 
-        <ion-list class="post-lists">
-            <!--Post-->
-            <ion-item class="post-container bckg-container" ng-repeat="post in posts | filter: query" href="#/app/post/{{post.id}}">
-                
-                
-                <div class="item post-subcontainer">
-                    
-                    <!--Post title and date-->    
-                    <h2 ng-bind-html='post.title' class="post-title"></h2>
-                    <p class="post-date">{{post.date |limitTo : 10 }}</p>
-                    
-                    <!--Thumbnail-->
-                    <img  class="full-image post-image" ng-src="{{post.attachments[0].url}}" alt="{{post.attachments[0].captions}}" />
-                    
-                    <!--Excerpt-->
-                    <ion-item class=" item-body post-excerpt" ng-bind-html='post.excerpt'></ion-item>
-                </div>
-                
-                <!--Post content-->
-<!--                <div class="item item-body post-content">-->
-                    
-                    
-<!--
-                    <ion-item ng-show="post.attachments[0].url" class="post-image-container">
-                        <img  class="full-image post-image" ng-src="{{post.attachments[0].url}}" alt="{{post.attachments[0].captions}}" />
-                    </ion-item>
--->
-                    
-                    
-                    
-                    
-                    <!--Categories-->
-<!--
-                    <ion-item ng-repeat='cat in post.categories' href="#/app/cat/{{cat.id}}" class="item post-cat">
-                        <i class="icon ion-pricetag"></i> {{cat.title}}
-                    </ion-item>
--->
-                    <!--Tags-->
-<!--
-                    <ion-item ng-repeat='tag in post.tags' href="#/app/tag/{{tag.id}}" class="item post-tag">
-                        <i class="icon ion-pricetags"></i> {{tag.title}}
-                    </ion-item>
--->
-<!--                </div>-->
-            </ion-item>
-        </ion-list>
+        <ion-slide>
+            <ion-content class="has-subheader posts bckg-container">
 
-      <ion-infinite-scroll ng-show="total_count> 10" ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" distance="10%"></ion-infinite-scroll>
-        
-    </ion-content>
+                <ion-refresher pulling-text="أحدث المواد..." on-refresh="doRefresh()">
+                </ion-refresher>
+
+                <list class="post-lists" ng-repeat="post in posts | filter: query">
+
+                    <div class="item row post-container"  >
+                        <!--Thumbnail-->
+                        <a class="col col-33" href="#/app/posts/{{post.id}}">
+                            <img class="full-image post-image" ng-src="{{post.thumbnail}}"/>
+                        </a>
+                        <div class="col">
+                            <!--Post title-->
+                            <a href="#/app/posts/{{post.id}}">
+                                <h2 ng-bind-html="post.headline" class="post-title"></h2>
+                            </a>
+                            <!--Share Area-->
+                            <button class="button button-icon button-clear ion-android-share-alt " ng-click="shareAnywhere(post.title, post.title, post.attachments[0].url, post.id) ">
+                            </button>
+
+                            <!--Post Date-->
+                            <p class="post-date">{{post.publish_date |limitTo : 10 }}</p>
+                            <h3 ng-show="post.category" ng-bind-html="post.category" class="category" ></h3>
+                            <h3 ng-show="!post.category" ng-bind-html="category.title" class="category" ></h3>
+                        </div>
+                    </div>
+                </list>
+
+                <ion-infinite-scroll ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" 
+                    distance="1%" spinner="android"></ion-infinite-scroll>
+            </ion-content>
+        </ion-slide>
+
+        <ion-slide ng-repeat="cat in cats">
+            <ion-content class="has-subheader posts bckg-container">
+
+                <ion-refresher pulling-text="أحدث المواد..." on-refresh="doRefresh()">
+                </ion-refresher>
+
+                <list class="post-lists" ng-repeat="post in posts | filter: query">
+
+                    <div class="item row post-container"  href="#/app/posts/{{post.id}}" >
+                        <!--Thumbnail-->
+                        <a class="col col-33" href="#/app/posts/{{post.id}}">
+                            <img class="full-image post-image" ng-src="{{post.thumbnail}}"/>
+                        </a>
+                        <div class="col">
+                            <!--Post title-->
+                            <a href="#/app/posts/{{post.id}}">
+                                <h2 ng-bind-html="post.headline" class="post-title"></h2>
+                            </a>
+                            <!--Share Area-->
+                            <button class="button button-icon button-clear ion-android-share-alt " ng-click="shareAnywhere(post.title, post.title, post.attachments[0].url, post.id) ">
+                            </button>
+
+                            <!--Post Date-->
+                            <p  class="post-date">{{post.publish_date |limitTo : 10 }}</p>
+                            <h3 class="category" ng-bind-html="category.title"></h3>
+                        </div>
+                    </div>
+                </list>
+                
+                <ion-infinite-scroll ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" 
+                    distance="1%" spinner="android"></ion-infinite-scroll>
+            </ion-content>
+        </ion-slide>
+    </ion-slide-box>
 
 </ion-view>

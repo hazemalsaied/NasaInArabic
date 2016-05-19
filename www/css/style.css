@@ -1,38 +1,150 @@
 /* Empty. Add your own CSS if you like */
 
-.splash {
-  background: url(../img/bkg.jpg) no-repeat center center fixed;
+body {
+    font-family: serif, Helvetica, Arial, sans-serif !important;
+    cursor: url('http://ionicframework.com/img/finger.png');
+}
+a {
+    text-decoration: none !important;
+}
+.splash, .home-page,  .home-page a{
+  background: url(../img/bckg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-.home-page {
-  width: 60%;
-  max-width: 300px;
-  margin: 0 auto;
-  margin-top: 20px;
-  text-align: center;
-    color: white !important;
+.slider, ion-slide.slider-slide {
+    position: absolute !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
 }
-.home-page h1{
-    margin-bottom: 5em;
+
+ .home .scroll {
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
 }
-.home-page h1,.home-page h2,.home-page h4{
-    color: white !important;
-    
+
+.home .scroll {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
-.move-to {
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-    text-align: center;
-    margin: auto;
-    overflow: hidden;
+
+.post-content {
+    padding: 1em;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    border-bottom: 2px solid #E9EAED !important;
+    text-align: justify;
+}
+
+.home-page,
+.home-page a {
+/*    background-color: #036482 !important;*/
+    height: 100%;
     width: 100%;
+    border: none !important;
 }
-.item, body.grade-a.platform-browser.platform-macintel.platform-ready {
+
+ion-header-bar.bar-positive.bar.bar-header {
+    border-bottom: 1px solid white !important;
+}
+
+.bar.bar-positive .title {
+/*    color: #fff;*/
+    font-size: 120%;
+    font-weight: 600;
+}
+
+.bar.bar-positive div.title {
+    font-size: 140%;
+    text-align: center;
+}
+
+h1.title.menu-title.ng-binding.title-left {
+    text-align: center;
+}
+
+.right-menu-list a.item-content.ng-binding {
+    font-weight: bold;
+}
+
+.tabs .tab-item .badge.badge-positive,
+.badge.badge-positive {
+    background-color: #066DAF;
+    color: #fff;
+}
+
+.posts .ion-android-share-alt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.positive,
+a.positive {
+    color: #066DAF;
+}
+
+.videos-lists .ion-android-share-alt {
+    bottom: 10px;
+}
+
+.videos-lists .full-image {
+    height: auto !important;
+}
+.posts-lists .full-image {
+    max-height: 7em;
+}
+
+.bar-positive {
+    background-color: #066DAF !important;
+    border-color: #066DAF !important;
+}
+
+.splash {
+    /*  background: url(../img/bkg.jpg) no-repeat center center fixed;*/
+    background-color: #066DAF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.home * {
+    text-align: center;
+    color: white !important;
+}
+
+.home .scroll {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    RIGHT: 0;
+    height: auto;
+    width: auto;
+}
+
+.home .titles {
+    position: absolute;
+    top: 5em;
+    right: 0;
+    left: 0;
+    font-size: 2em;
+}
+
+.item,
+body.grade-a.platform-browser.platform-macintel.platform-ready {
     text-align: right;
     direction: rtl;
 }
@@ -44,12 +156,17 @@
 }
 
 .post-container a.item-content,
-.bckg-container{
+.bckg-container {
     background-color: #E9EAED !important;
 }
 
 .post-cat a.item-content.ng-binding {
     background-color: white !important;
+}
+
+li.item.cat-container,
+ion-item.date-comments.item {
+    padding: 5px 16px;
 }
 
 cat,
@@ -61,42 +178,26 @@ tag {
     line-height: 16px !important;
 }
 
-.post-title {
-    font-weight: 700 !important;
-    font-size: 20px;
-    line-height: 25PX;
-    color: #387ef5;
-}
-
-li.item.cat-container,
-ion-item.date-comments.item {
-    padding: 5px 16px;
-}
-
-p.post-date {
-    font-size: 11px !important;
-    color: gray !important;
-}
-
 a.cat {
     font-size: 13px;
     padding-top: 5px !important;
     padding-bottom: 5px !important;
 }
 
-.post-title {
-    white-space: normal !important;
+.item {
+    font-family: serif !important;
 }
 
-.item a{
-    color: #387ef5;
+.item a {
+    color: #066DAF;
 }
-.item .post-content p , 
-.item .post-content ul, 
+
+.item .post-content p,
+.item .post-content ul,
 .item .post-content ol {
     font-size: 16px;
     line-height: 23px;
-    margin: 15px 0;
+    margin:  0;
     color: black;
     white-space: normal !important;
 }
@@ -109,35 +210,229 @@ a.cat {
 .item .post-content h6 {
     margin: 10px 0;
     font-size: 18px;
-    color: #387ef5;
+    color: #066DAF;
     font-weight: bold;
     line-height: 25px;
     white-space: normal !important;
 }
 
-.post-content img {
-    max-width: 100%;
-    margin: 10px 0;
-}
-
-.item .post-content a {
-    text-decoration: none;
-}
-
-.item .post-content blockquote {
-    font-style: italic;
-    color: gray;
-    background-color: #E9EAED ;
-}
 .item-complex .item-content {
     padding: 16px !important;
 }
+
+.post-title-link {
+    text-decoration: none;
+}
+
+.move-to {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+
+.post-content .wp-caption {
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+.post-content blockquote {
+    font-style: italic;
+    background-color: #E9EAED;
+    border-left: 5px solid #777777;
+}
+
+.post-content img {
+    max-width: 100% !important;
+    margin: 10px 0 !important;
+}
+
+.post-content a {
+    text-decoration: none;
+}
+
+.post-excerpt {
+    padding: 10px 10px 10px 0 !important;
+    border: none;
+    max-height: 7em;
+    overflow: hidden;
+}
+
+.post-excerpt * , .post-excerpt p ,.post-excerpt div  {
+    color: gray !important;
+    margin-top: 0px;
+    text-align: justify;
+    line-height: 1em !important;
+    font-size: 1em !important;
+}
+
+.singlePostBar h2.title.post-title {
+    margin-right: 3em;
+    line-height: 3em;
+    /* text-align: right; */
+    font-size: 1em;
+    white-space: normal !important;
+    color: #EF4751;
+    font-weight: bold;
+    text-align: center;
+}
+
+.posts h2.post-title.ng-binding {
+    white-space: normal;
+    color: #EF4751;
+    font-weight: bold;
+    line-height: 1.3em;
+    font-size: 1em;
+}
+
+.thumbnail {
+    margin: 0 !important;
+    width: 100%;
+}
+
+.embed-youtube iframe.youtube-player,
+iframe {
+    width: 100% !important;
+    max-height: 15em !important;
+}
+
+p.post-date {
+    font-size: 12px !important;
+    color: #777777 !important;
+    font-weight: bold;
+}
+
+.post-wrap {
+    text-decoration: none;
+}
+.item.post-content * {
+    text-overflow: initial;
+    font-style: normal;
+    white-space: normal;
+}
+
 input.ng-pristine.ng-untouched.ng-valid {
     text-align: right;
 }
-.post-excerpt p {
-    margin-top: 0px;
+
+.posts button.button.button-icon.button-clear.ion-android-share-alt {
+    display: block;
+    overflow: hidden;
+    z-index: 100;
 }
-.post-excerpt {
-    padding: 10px !important;
+
+.popup {
+    direction: rtl;
+    text-align: right;
+}
+
+.popup .button-positive {
+    background-color: #066DAF !important;
+}
+
+span.date {
+    float: left !important;
+}
+
+.list .item.item-accordion {
+  line-height: 38px;
+  padding-top: 0;
+  padding-bottom: 0;
+  transition: 0.09s all linear;
+}
+.list .item.item-accordion.ng-hide {
+  line-height: 0px;
+}
+.list .item.item-accordion.ng-hide-add,
+.list .item.item-accordion.ng-hide-remove {
+  display: block !important;
+}
+.catMenu.item {
+    background-color: white;
+}
+.catMenu a {
+    background-color: #fff !important;
+    color: #066DAF !important;
+}
+.catMenu .sub-item {
+    padding: 10px 30px;
+}
+
+a.catLink {
+    text-decoration: none;
+    font-weight: bold;
+}
+ion-item.item-stable.catMenu.item.active {
+    background-color: white;
+}
+a.headerTitle {
+    text-decoration: none;
+}
+
+.item {
+    border: 1px solid #E9EAED;
+}
+
+.item-toggle .toggle {
+    left: 16px;
+    right: auto;
+}
+.item-toggle {
+    padding-right:16px ;
+}
+.postSlide .thumbnail {
+    margin: 0 !important;
+    width: 100%;
+}
+.date-comments {
+    line-height: 1.5em;
+    font-weight: bold;
+    padding: 15px;
+    border-bottom: 1px solid #E9EAED;
+    text-align: right;
+}
+span.onBrowser {
+    color: #066DAF;
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+span.date.ng-binding {
+    color: #EF4751;
+}
+h3.category, .detail {
+    color: #066DAF;
+}
+/*
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+*/
+img.contributerImage {
+    width: 80%;
+    max-height: 18em;
+    border-radius: 50%;
+    position: relative;
+    display: block;
+    margin: 2em auto;
+}
+
+.imgCon {
+    background: #F5F5F5;
+    padding: 1em;
+    border-bottom: 3px solid white !important;
 }

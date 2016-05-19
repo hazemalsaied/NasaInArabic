@@ -6,26 +6,44 @@
 // 'starter.controllers' is found in controllers.js
 angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova'])
 
-.constant('FSE_API', {
-//  url: 'http://localhost:8100/api/'
-//              ,
-//  "proxies": [
+//
+//, "proxies": [
 //    {
 //      "path": "/api",
-//      "proxyUrl": "http://fse-nancy.fr/api"
+//      "proxyUrl": "http://api.nasainarabic.net/"
 //    }
 //  ]
-    url: 'http://fse-nancy.fr/api/'
-})
 
-.constant('SITE_NAME', {
-    name: 'أيفل'
+.constant('config', {
+    SITE_NAME: 'ناسا بالعربي',
+    CONTACT_MAIL: 'CONTACT_MAIL',
+    API: 'http://api.nasainarabic.net/',
+//    API: 'http://localhost:8100/api/',
+    MENU_TITLE: 'تبويبات الموقع',
+    POST_LIST_DATA: 'number=10&fields=ID,date,excerpt,title,discussion,content,categories,tags,featured_image,short_URL',
+    LOADING_TEXT: 'جاري التحميل ..',
+    ON_BROWSER:'على المتصفح',
+    USEFUL_LINK: 'روابط مفيدة',
+    FACEBOOK_TEXT: 'على فيسبوك',
+    TWITTER_TEXT: 'على تويتر',
+    GOOGLE_TEXT :'على جوجل',
+    YOUTUBE_TEXT:'على يوتيوب',
+    INSTAGRAM_TEXT:'على انستجرام',
+    LINKEDIN_TEXT:'على لينكيد إن',
+    CONTACT_US: 'تواصل معنا',
+    MORE_TAGS: 'كلمات مفتاحية',
+    HOME: 'الرئيسية',
+    MULTIMEDIA: 'ملتيميديا ناسا',
+    VIDEOS: 'فيديو',
+    IMAGES: 'صور',
+    SOCIAL_PAGE_TITLE: 'ناسا بالعربي في كل مكان',
+    FACEBOOK_LINK: 'https://www.facebook.com/NasaInArabic',
+    TWITTER_LINK: 'https://twitter.com/NasaInArabic',
+    YOUTUBE_LINK: 'https://www.youtube.com/user/NasaInArabic',
+    BROWSE_POST: 'قد تحتوي هذه المادة على محتوى يتعذر إظهاره في التطبيق، لمشاهدتها على المتصفح، انقر هنا',
+    CONNECTION_ERROR: 'خطأ تقني',
+    CONNECTION_ERROR_MSG : 'عذرا .. لا يمكننا الاتصال بالمخدم. سيتم إغلاق التطبيق!'
 })
-
-.constant('CONTACT_MAIL', {
-    mail: 'contact@fse-nancy.fr'
-})
-
 .run(function ($ionicPlatform) {
     $ionicPlatform.ready(function () {
         // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
@@ -41,7 +59,6 @@ angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova']
         }
     });
 })
-
 .config(function ($stateProvider, $urlRouterProvider) {
 
     $stateProvider
@@ -51,7 +68,7 @@ angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova']
             templateUrl: 'templates/menu.html',
             controller: 'AppCtrl'
         })
-        .state('app.home', {
+    .state('app.home', {
             url: '/home',
             views: {
                 'menuContent': {
@@ -60,7 +77,7 @@ angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova']
                 }
             }
         })
-        .state('app.posts', {
+    .state('app.posts', {
             url: '/posts',
             views: {
                 'menuContent': {
@@ -69,25 +86,52 @@ angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova']
                 }
             }
         })
-        .state('app.cat', {
+    .state('app.cat', {
             url: '/cat/:catId',
             views: {
                 'menuContent': {
                     templateUrl: 'templates/posts.html',
-                    controller: 'catPostsCtrl'
+                    controller: 'postsCtrl'
                 }
             }
         })
-        .state('app.tag', {
+    .state('app.tag', {
             url: '/tag/:tagId',
             views: {
                 'menuContent': {
                     templateUrl: 'templates/posts.html',
-                    controller: 'tagPostsCtrl'
+                    controller: 'postsCtrl'
                 }
             }
         })
-        .state('app.contact', {
+    .state('app.tags', {
+            url: '/tags',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/tags.html',
+                    controller: 'tagsCtrl'
+                }
+            }
+        })
+    .state('app.videos', {
+            url: '/videos',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/videos.html',
+                    controller: 'videosCtrl'
+                }
+            }
+        })
+    .state('app.images', {
+            url: '/images',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/videos.html',
+                    controller: 'videosCtrl'
+                }
+            }
+        })
+    .state('app.contact', {
             url: '/contact',
             views: {
                 'menuContent': {
@@ -96,12 +140,48 @@ angular.module('starter', ['ionic', 'fseControllers', 'ngSanitize', 'ngCordova']
                 }
             }
         })
-        .state('app.post', {
-            url: '/post/:postId',
+    .state('app.post', {
+            url: '/posts/:postId',
             views: {
                 'menuContent': {
                     templateUrl: 'templates/post.html',
                     controller: 'postCtrl'
+                }
+            }
+        })
+    .state('app.video', {
+        url: '/videos/:videoId',
+        views: {
+            'menuContent': {
+                templateUrl: 'templates/video.html',
+                controller: 'videoCtrl'
+            }
+        }
+    })
+    .state('app.image', {
+        url: '/images/:videoId',
+        views: {
+            'menuContent': {
+                templateUrl: 'templates/video.html',
+                controller: 'videoCtrl'
+            }
+        }
+    })
+    .state('app.user', {
+        url: '/users/:userId',
+        views: {
+            'menuContent': {
+                templateUrl: 'templates/user.html',
+                controller: 'userCtrl'
+            }
+        }
+    })
+    .state('app.social', {
+            url: '/social',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/social.html',
+                    controller: 'socialCtrl'
                 }
             }
         });

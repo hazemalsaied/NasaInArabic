@@ -1,15 +1,15 @@
-<ion-view view-title="{{pageTitle}}" hide-nav-bar="flase">
-    <ion-content class="splash padding">
-        
-        <div class="home-page">
-            <h1><strong>أيفل</strong></h1>
-            <h2>بوصلتك في فرنسا</h2>
-            <p>برعاية جمعية التعاون الفرنسي السوري في نانسي</p>
-        </div>
-
-    </ion-content>
+<ion-view hide-nav-bar="true">
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
     
-    <div class="bar bar-footer bar-positive">
-        <a class='move-to' href="#/app/posts" class="title ">الانتقال إلى المقالات</a>
-    </div>
+    <ion-content class="splash padding home">
+
+        <ion-item class="home-page" href="#/app/posts">
+            <div class="titles">
+            <h1><strong>ناسا بالعربي</strong></h1>
+            <h2 class="slogan">نبدأ بترجمة العلم لننتهي بصناعته</h2>
+            </div>
+        </ion-item>
+    </ion-content>
 </ion-view>

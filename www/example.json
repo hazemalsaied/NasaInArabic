@@ -1,0 +1,885 @@
+{
+    "data": [
+        {
+            "id": "2405",
+            "category_id": "77",
+            "category": "فيزياء",
+            "headline": "تطوير نسيج مرن يحتجز أمواج الرادار لإخفاء الأجسام",
+            "slug": "flexible-skin-radar-cloaks",
+            "description": "<p dir=\"rtl\" style=\"text-align:justify\"><strong><span style=\"color:rgb(20, 24, 35)\">يمكن لهذا &quot;الجلد الخارق&quot; المرن والقابل للتمدّد، أن يحتجز موجات الرادار ويخفي الأجسام لتصبح غير قابلة للكشف.</span></strong><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong><span style=\"color:rgb(20, 24, 35)\">مصدر الصورة يعود إلى يانغ دونغ/جامعة ولاية أيوا Liang Dong/Iowa State University.</span></strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\">قام مهندسو جامعة ولاية أيوا <strong>Iowa State University</strong> بتطوير نسيج مرن منضبط وقابل للتمدد وسُمّي &quot;الجلد الخارق&quot; <strong><span dir=\"ltr\" lang=\"es\">meta-skin [1]</span></strong>، حيث يستخدم صفوفاً من أجهزة صغيرة من المعادن السائلة لحجب الأجسام، ومنع الرادار من اكتشافها.<br />\r\n<br />\r\nيأخذ هذا النسيج الخارق اسمه من المواد الخارقة<strong> metamaterial، ا</strong>لمكوّنة من مركّبات لها خصائص لا توجد في الطبيعة، ويمكنها التلاعب بالأشعة الكهرومغناطيسية. يمكننا عن طريق مدّ وثني بولمير&nbsp;<strong><span dir=\"ltr\" lang=\"es\"> polymer [2]</span></strong> هذا الجلد الخارق ضبطَه ليقوم بخفض الانعكاس لمجموعة واسعة من تردّدات الرادار.<br />\r\n<br />\r\nذكرت مجلة<strong> Scientific Reports</strong> هذا الاكتشاف مؤخراً على الإنترنت، المؤلفون الرئيسيون من دائرة ولاية أيوا للهندسة الكهربائية والكومبيوتر هم: ليانغ دونغ <strong>Liang Dong</strong> أستاذ مساعد، وجيمينغ سونغ <strong>Jiming Song</strong> أستاذ جامعي. والمؤلفون المشاركون هم من خريجي جامعة ولاية أيوا وهم: سيمينغ يانغ<strong> Siming Yang</strong>، وبينغ ليو <strong>Peng Liu</strong>، وتشو وانغ<strong> Qiugu Wang،</strong> وإحدى خريجات جامعة أيوا وهي مينغا يانغ <strong>Mingda Yang. </strong></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\">وقد قامت المؤسسة الوطنية للعلوم <strong>The National Science Foundation </strong>ومجلس المنحة الدراسية الصينية <strong>China Scholarship Council</strong> بدعم المشروع بشكل جزئي.<br />\r\n<br />\r\nكتب المهندسون في وثيقتهم: &quot;من المعتقد أن ينشأ عن التكنولوجيا الخارقة لهذا الجلد تطبيقات عديدة في ضبط تردّدات الأشعة الكهرومغناطيسية وحماية ومنع ارتداد هذه الأمواج&quot;.<br />\r\n<br />\r\nلدى دونغ أرضيّة في صناعة الأجهزة الميكرويّة والنّانوية والعمل مع السوائل والبوليمرات، ولسونغ خبرة في البحث عن تطبيقات جديدة للأشعة الكهرومغناطيسية.<br />\r\n<br />\r\nوما توصلا إليه كان مرناناتٍ حلقيّة منفصلة تتوضع داخل طبقات في شرائح سيليكونية. هذه المرنانات الكهربائية مليئة بمادة تدعى الغالينستان Galinstan (<strong>خليطٌ تجاريّ يتألف من معادن سهلة الانصهار وبشكل أساسي من الإنديوم والقصدير والغاليوم</strong>)، وهو خليط معدني يتحول إلى سائل في درجة حرارة الغرفة لكنّه أقل سمية من السوائل المعدنية الأخرى كالزئبق.<br />\r\n<br />\r\nتخلق الحلقات محاثات كهربائية، فيما تخلق الفراغات مكثفات كهربائية. وتقومان معاً بخلق مرنان يمكنه التقاط وكبح أمواج الرّادار عند تردد معين، كما أن مدّ هذا الجلد الخارق يغيّر حجمَ حلقات السائل المعدني الداخلي والتردد الذي تكبحه هذه المرنانات.<br />\r\n<br />\r\nوفقاً لهذه الوثيقة فقد أظهرت الاختبارات أنّ كبح أمواج الرادار كان بحدود الـ 75 % من مجال تردد بين 8-10 غيغا هرتز. عند تغطية الأجسام بهذا النسيج الخارق، تُكبَح أمواج الرادار من جميع الاتجاهات التي تتعرض لها وجميع زوايا المراقبة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">وكتب المهندسون في وثيقتهم: &quot;ولهذا، تختلف تكنولوجيا الجلد الخارق عن تكنولوجيا التّخفي التقليدية التي غالباً ما تقوم بتخفيض الارتداد فقط، مثل الأشعة المرتدّة إلى المسبار&quot;.<br />\r\n<br />\r\nلدى قيامه بمناقشة هذه التكنولوجيا، جلب سونغ باستخدام كومبيوتر لوحي صورةً للمفجّر السري<strong> B-2</strong>، وقال: &quot;يوماً ما، سيتمكن هذا الجلد من تغطية الجيل القادم من طائرات الشبح&quot;. إلا أنّ الباحثين يأملون بالمزيد، عباءة إخفاء!.<br />\r\n<br />\r\nيقول سونغ: &quot;الهدف بعيد المدى هو تقليص حجم هذه الأجهزة، ومن ثم نأمل أن نتمكّن من فعل هذا مع الأمواج الكهرومغناطيسية ذات الترددات الأعلى كالأشعة المرئية أو تحت الحمراء. لكنّ ذلك سيتطلب تقنيات تصنيع نانويّة متقدمة إضافة إلى تعديلات هيكلية مناسبة. نعتقد أن هذه الدراسة تثبتُ مفهوم ضبط التّردد وتوسيعه، وكبح الأمواج متعددة الاتجاهات مع أنسجةٍ ذات نمطٍ خارق&quot;.<br />\r\n<br />\r\n<br />\r\n<strong>ملاحظات</strong></span></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\"><strong>[1]&nbsp;Meta-skin</strong> الجلد الخارق:&nbsp;جلد خارق، تركيبي لا مثيل له في الطبيعة.<br />\r\n<strong>[2] Polymers</strong> البوليميرات:&nbsp;سلاسل جزيئية ضخمة تتألف من وحدات أساسية متكررة.</span></p>",
+            "image": "https://nasainarabic.net/uploads/articles/ae6fe3e65edb935bd6cca925a2910eef.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/ae6fe3e65edb935bd6cca925a2910eef.jpg",
+            "publish_date": "2016-03-31 15:27:00",
+            "tags": [
+                {
+                    "id": "5026",
+                    "tag": "الجلد الخارق",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الجلد الخارق"
+                },
+                {
+                    "id": "5027",
+                    "tag": "الاجهزة الميكروية و النانوية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الاجهزة الميكروية و النانوية"
+                },
+                {
+                    "id": "5028",
+                    "tag": "تكنولوجيا التّخفي",
+                    "url": "http://api.nasainarabic.net/tagged_articles/تكنولوجيا التّخفي"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "نجوى بيطار",
+                        "user_id": "276",
+                        "image": "https://nasainarabic.net/uploads/users/27e1d923873bb644af44aae871299a41.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/27e1d923873bb644af44aae871299a41.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "محمد الشيخ حيدر",
+                        "user_id": "292",
+                        "image": "https://nasainarabic.net/uploads/users/d3d9229e5f2dddc768fad77eba75eb19.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d3d9229e5f2dddc768fad77eba75eb19.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "ليلاس قزيز",
+                        "user_id": "224",
+                        "image": "https://nasainarabic.net/uploads/users/9bdf7e2d64babb779f5d84481362bc1a.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/9bdf7e2d64babb779f5d84481362bc1a.jpg"
+                    },
+                    {
+                        "full_name": "معاذ طلفاح",
+                        "user_id": "28",
+                        "image": null,
+                        "thumbnail": null
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "مي الشاهد",
+                        "user_id": "7",
+                        "image": "https://nasainarabic.net/uploads/users/61b5b18d361fd0d837a435f624f8e25b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/61b5b18d361fd0d837a435f624f8e25b.jpg"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4616",
+                    "title": "phys.org"
+                }
+            ]
+        },
+        {
+            "id": "2404",
+            "category_id": "100",
+            "category": "طاقة وبيئة",
+            "headline": "اكتشاف جراثيم آكلة للبلاستيك يمكنها تفكيك مركب PET",
+            "slug": "new-plastic-munching-bacteria-could-fuel-a-recycling-revolution",
+            "description": "<div dir=\"rtl\">\r\n<div style=\"clear:right;\"><strong>اكتشف العلماء مؤخرًا جراثيمًا آكلةً للبلاستيك يمكنها تفكيك مركب PET .</strong>\r\n<hr />\r\n<p>نصنع سنوياً ما يزيد عن 300 مليون طن من المواد البلاستيكية (اللدائن) لاستخدامها في كل شيء بدءًا بالتغليف وانتهاءً بالملابس. فهي تمتاز بمرونتها الكبيرة إذا ما أردنا لمنتج ما أن يدوم لوقت أطول. ولكن عندما نريد رميها والتخلص منها، تبقى المواد البلاستيكية في البيئة المحيطة مبعثرة في الطرقات والحقول والمحيطات على حد سواء. لذلك فإن كل مكان في كوكبنا يعاني من جرَّاء إدماننا المواد البلاستيكية.&nbsp;</p>\r\n\r\n<p><br />\r\nاليوم هناك ما يساعدنا على تنظيف هذه الفوضى، حيث وُجدت جراثيم تلتهم ببطء عبوات مرمية في مكب تابع لمركز إعادة تدوير.&nbsp;</p>\r\n\r\n<p><br />\r\nالمواد البلاستيكية هي عبارة عن بوليمرات؛ أي جزيئات طويلة متباعدة مكونة من مونومير(<strong>monomer</strong>) كوحدات بناء أساسية، ترتبط مع بعضها البعض بشكل متقاطع لبناء شبكة متينة لدنة. معظم المواد البلاستيكية مصنوعة من جزيئات المونومير ذات أساس كربوني، لذا فإنها نظريًا تشكِّل مصدرًا غذائيًا جيدًا للأحياء المجهرية. ولكن خلافًا للبوليمرات الطبيعيَّة (مثل السيلولوز الموجود في النبات) فإن المواد البلاستيكية ليست قابلة للتحلل بشكل عام.&nbsp;</p>\r\n\r\n<p><br />\r\nتكيَّفت الجراثيم والفطريات مع المواد الطبيعية، مبتكرةً مع الوقت طرقًا كيميائية حيوية لتسخير الموارد من المادة الميتة. ولكن المواد البلاستيكية وجدت منذ حوالي 70 عام فقط، لذا فإن الأحياء المجهرية -ببساطة- لم تمتلك الوقت الكافي لتطوير المعدات الكيميائية الحيوية اللازمة لتتثبَّت على الأنسجة البلاستيكية، وتفكيكها إلى مكوناتها الأساسية ومن ثم استهلاك المواد الكيميائية الناتجة كمصدر للطاقة والكربون الضروري لنموها.&nbsp;</p>\r\n\r\n<p><br />\r\nابتكار أنزيم لقد وجد اليوم فريق في جامعة كيوتو <strong>Kyoto University</strong>، من خلال البحث في أكوام القمامة، جرثوما آكلاً للبلاستيك. وبعد خمس سنوات جرى فيها دراسة 250 عينة، تمكّن الفريق من عزل بكتيريا يمكنها العيش على مادة تريفثالات الأثيلين المتعدد (<strong>polyethylene terephthalate</strong>) واختصارًا (<strong>PET</strong>)، وهو مركب بلاستيكي شائع الاستعمال في العبوات والملابس. وقد أطلق على النوع الجديد من البكتيريا اسم إديونيلا ساكينسيس <strong>Ideonella sakaiensis</strong>. قد تعتقد أن هذا اجترار لقصة قديمة، إذ أنَّ الجراثيم الآكلة للبلاستيك قد سوِّق لها منذ زمن على أنها المنقذ لكوكبنا، ولكن هناك العديد من الاختلافات الهامة هنا: أولاً، كانت التقارير في الماضي تتمحور حول ابتكار جيل لاستنبات الفطريات، في حين أن الجرثوم، في هذه الحالة، ينمو بسهولة، حيث قام الباحثون بترك مركب <strong>PET </strong>في مرطبان دافئ مع المستنبت الجرثومي ومغذيات أخرى، وبعد عدة أسابيع اختفت المواد البلاستيكية برمتها.</p>\r\n\r\n<p>{{Photo #1}}</p>\r\n\r\n<p>ثانيًا - وهنا يكمن الابتكار الحقيقي - تمكَّن الفريق من تحديد الأنزيمات التي تستخدمها بكتيريا &quot;إديونيلا ساكينسيس&quot; لتفكيك مركب <strong>PET</strong>. تحتوي جميع الكائنات الحية أنزيمات تستخدمها لتسريع التفاعلات الكيميائية الضرورية، فبعض الأنزيمات تساعد على هضم الطعام، حيث تفككه إلى وحدات بنائية مفيدة. ودون الأنزيمات الضرورية لن يكون بمقدور الجسم الوصول إلى مصادر معينة من الغذاء، على سبيل المثال: إن الناس الذين لا يتحمَّلون سكر اللبن (اللكتوز)، لا يمتلكون الأنزيم المسؤول عن تفكيكه في منتجات الألبان، ولايمكن لأي إنسان هضم السيللوز في حين تستطيع بعض الجراثيم فعل ذلك. ويبدو أن بكتيريا &quot;إديونيلا ساكينسيس&quot; قد طورت أنزيمًا فعالًا تنتجه عندما تكون في بيئة غنية بمركب <strong>PET</strong>. وقد تمكَّن باحثو جامعة كيوتو من تحديد المورثة في الحمض النووي الوراثي للبكتيريا المسؤولة عن إنتاج الأنزيم المفكك لمركب <strong>PET</strong>، وعندها كانوا قادرين على صناعة المزيد منه ثم التركيز على فاعليته في تفكيك مركب <strong>PET</strong>. أول عملية إعادة تدوير طبيعية وهذا يفتح طريقًا جديدًا كليًا لإعادة تدوير البلاستيك وإزالة التلوُّث الناجم عنه.</p>\r\n</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>في الوقت الحاضر، لا يوجد هناك إعادة تدوير طبيعية لمعظم العبوات البلاستيكية، وعوضًا عن ذلك، تجري إذابتها وإعادة تشكيلها إلى منتجات بلاستيكية صلبة أخرى. وتفضل شركات التغليف عادةً المواد البلاستيكية &quot;الخام&quot; المصنوعة حديثًا من مواد كيميائية مشتقة عادةً من&nbsp;النفط. تقدم الأنزيمات الهاضمة لمركب <strong>PET </strong>طريقة لإعادة تدوير طبيعي للبلاستيك حيث يمكن إضافتها إلى حاويات القمامة، لتفكك جميع العبوات أو القطع البلاستيكية الأخرى إلى مواد كيميائية يسهل التعامل معها. عندها، يمكن استخدام هذه المواد في صناعة مواد بلاستيكية جديدة، منتجين بذلك نظام إعادة تدوير طبيعي. تستعمل الأنزيمات الصناعية بشكل فعال في طيف واسع من المواد ذات الاستخدامات اليومية، إذ تحتوي مساحيق التنظيف الحيوية على أنزيمات تهضم بقع الدهون. هناك أيضًا الأنزيمات المعروفة بالأنفحة <strong>rennet </strong>والتي تستخدم لتخثير الجبن وكانت تأتي من أمعاء العجل، ولكنها اليوم تُصنَّع باستخدام بكتيريا معدلة وراثيًا.&nbsp;</div>\r\n\r\n<div><br />\r\nربما باستطاعتنا الآن استعمال طريقة صناعية مشابهة من أجل تنظيف الفوضى التي خلَّفناها في بيئتنا.&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>",
+            "image": "https://nasainarabic.net/uploads/articles/2b37b704e6d0eb355ee3c31bee5fb124.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/2b37b704e6d0eb355ee3c31bee5fb124.jpg",
+            "publish_date": "2016-03-30 19:31:00",
+            "tags": [
+                {
+                    "id": "5022",
+                    "tag": "PET",
+                    "url": "http://api.nasainarabic.net/tagged_articles/PET"
+                },
+                {
+                    "id": "5023",
+                    "tag": "جراثيم",
+                    "url": "http://api.nasainarabic.net/tagged_articles/جراثيم"
+                },
+                {
+                    "id": "5024",
+                    "tag": "بلاستيك",
+                    "url": "http://api.nasainarabic.net/tagged_articles/بلاستيك"
+                },
+                {
+                    "id": "5025",
+                    "tag": "بوليمر",
+                    "url": "http://api.nasainarabic.net/tagged_articles/بوليمر"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "سمر غانم",
+                        "user_id": "254",
+                        "image": "https://nasainarabic.net/uploads/users/81a02b1ebbee662e2cb01266a0ea6363.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/81a02b1ebbee662e2cb01266a0ea6363.png"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "حسين حنيت",
+                        "user_id": "274",
+                        "image": "https://nasainarabic.net/uploads/users/ff22f9d749233260b5e8bd6dad5f7567.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/ff22f9d749233260b5e8bd6dad5f7567.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "طارق نصر",
+                        "user_id": "19",
+                        "image": "https://nasainarabic.net/uploads/users/fc4af5047f7702f57b476ece120f7bfb.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/fc4af5047f7702f57b476ece120f7bfb.jpg"
+                    },
+                    {
+                        "full_name": "بنان محمود جوابره",
+                        "user_id": "232",
+                        "image": "https://nasainarabic.net/uploads/users/0e163bee9f43805d4738bee1446f6c0b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/0e163bee9f43805d4738bee1446f6c0b.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "حور قادري",
+                        "user_id": "211",
+                        "image": "https://nasainarabic.net/uploads/users/d5c6b6b327b64d6d738ce217c738e2d5.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d5c6b6b327b64d6d738ce217c738e2d5.png"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4614",
+                    "title": "ScienceAlert"
+                }
+            ]
+        },
+        {
+            "id": "2403",
+            "category_id": "7",
+            "category": "النظام الشمسي",
+            "headline": "ما الذي يتآكل على بلوتو؟",
+            "slug": "what-s-eating-at-pluto",
+            "description": "<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">بعيدًا في نصف الكرة الغربي، اكتشف العلماء في مهمّة نيو هورايزنز (<strong>New Horizons</strong>) كيف تبدو &quot;قضمةٌ بارزةٌ&quot; كبيرةٌ على سطح بلوتو، وقد اشتبهوا في أنّها ربّما ناتجة عن عمليّة تعرف بـالتّسامي (<strong>sublimation</strong>) وهي انتقال المادّة من الحالة</span><span style=\"color:rgb(20, 24, 35)\">&nbsp;الصّلبة إلى الحالة الغازيّة، حيث أنّه من الممكن أن يتسامى السّطح الغني بالميثان المتجمّد بعيداً إلى الغلاف الجوّي كاشفاً عن طبقة تحتيّة من الماء المتجمّد.<br />\r\n<br />\r\nيقع الشّمال إلى الأعلى في هذه الصّورة، حيث يُظهر الجزء الجنوبيّ على اليسار المدرج في الأعلى الهضبة المحفورة العالية والمسمّاة بشكل غير رسميّ بـ فيغا تيرا<strong> Vega Terra </strong>(تجدر الإشارة إلى أنّ كل أسماء الملامح هي غير رسميّة). تحدّ البقايا المتهالكة، أو جدار المنحدرات، المعروف بـ بيري روباس <strong>Piri Roupes</strong> سهول بيري بلانيتيا<strong> Piri Planitia</strong> الصّغيرة شبه الخالية من الحفر، وقد انفصلت المنحدرات إلى هضاب معزولة في العديد من الأماكن.<br />\r\n<br />\r\nالتّقطع القطريّ عبر المستويات ذات البقع هو صدع طويل ممتد لـ إنانا فوسا<strong> Inanna Fossa </strong>الذي يمتدّ بدوره إلى الشرق بـ370 ميلاً (600 كم) من هنا إلى الحد الغربيّ لسهول سبوتنيك بلانوم <strong>Sputnik Planum</strong> العظيمة من النيتروحين المتجمّد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">تشير البيانات التركيبية من جهاز مصفوف رالف/الخطيّ لمعايرة التصوير الطيفي (<strong>Ralph/Linear Etalon Imaging Spectral Array</strong>) أو اختصارًا <strong>LEISA</strong> على متن مركبة نيو هورايزنز والمدرجة على اليمين، إلى أنّ الهضبة العالية جنوب بيري روباس غنيّة بالميثان المتجمّد (تظهر بالبنفسجي عبر الألوان المزيّفة). خمّن العلماء بأنه من الممكن لتسامي الميثان أن يسبب تآكل مواد الهضبة على طول المنحدرات ما يؤدّي إلى تراجع سهول بيري بلانيتيا الجنوبيّة المتبقية على أعقابها.<br />\r\n<br />\r\nتظهر البيانات التركيبيّة أيضًا إلى أن سطح بيري بلانيتيا غني بالماء المتجمّد (يظهر بالأزرق عبر الألوان المزيفة) أكثر من الهضاب العالية، والتي ربما تشير إلى أن سطح بيري بلانيتيا مكوّن في الأساس منه، فقط تحت طبقة متراجعة من الميثان المتجمد، ولأن سطح بلوتو بارد جدًّا فإن جليد الماء صلب كالصخور، وغير قابل للحركة، إن الجزء المظلم/المضيء والمنقط من بيري بلانيتيا في اليسار منعكس في الخريطة التركيبية، مع المناطق الأكثر إضاءة والمقابلة للمناطق الأكثر ثراءً بالميثان، - وهذه قد تكون بقايا من غاز الميثان الذي لم يتسام كلياً بعد.</span><br />\r\n<br />\r\n<span style=\"background-color:rgb(255, 255, 255); color:rgb(20, 24, 35)\">يظهر الشّكل المدرج على اليسار حوالي 650 قدماً (200 متر) لكل بيكسل، لتكون قياسات الصورة هي بالتّقريب 280 ميلًا (450 كم) في الطول و255 ميلًا (410 كم) في العرض، التقُطت هذه الصورة بواسطة مركبة نيو هورايزنز على بعد متوسط مقدّرٍ بـ 21100 ميل (33900 كم) من بلوتو، حوالي 45 دقيقةً قبل وصول المركبة إلى أقرب نقطة من الكوكب في 14 يوليو/تموز 2015.</span><br />\r\n<br />\r\n<span style=\"background-color:rgb(255, 255, 255); color:rgb(20, 24, 35)\">جُمعت بيانات مصفوفة رالف/الخطيّة لمعايرة التصوير الطّيفي على اليمين عندما كانت المركبة الفضائيّة على بعد حوالي 29000 ميلاً (47000 كم) من بلوتو، أفضل دقّة هي 1.7 ميل (2.7 كلم) لكل بيكسل.&nbsp;</span><br />\r\n<br />\r\n<strong><span style=\"background-color:rgb(255, 255, 255); color:rgb(20, 24, 35)\">حقوق الصّور: NASA/JHUAPL/SwRI&nbsp;</span></strong></p>",
+            "image": "https://nasainarabic.net/uploads/articles/df207cfb36c376bd9318f2814c6d037e.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/df207cfb36c376bd9318f2814c6d037e.jpg",
+            "publish_date": "2016-03-30 18:18:00",
+            "tags": [
+                {
+                    "id": "218",
+                    "tag": "بلوتو",
+                    "url": "http://api.nasainarabic.net/tagged_articles/بلوتو"
+                },
+                {
+                    "id": "2290",
+                    "tag": "نيوهورايزنز",
+                    "url": "http://api.nasainarabic.net/tagged_articles/نيوهورايزنز"
+                },
+                {
+                    "id": "2810",
+                    "tag": "سهل سبوتنيك",
+                    "url": "http://api.nasainarabic.net/tagged_articles/سهل سبوتنيك"
+                },
+                {
+                    "id": "5021",
+                    "tag": "سهول بيري بلانيتيا",
+                    "url": "http://api.nasainarabic.net/tagged_articles/سهول بيري بلانيتيا"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "جهاد حسام الدين صوالح محمد",
+                        "user_id": "245",
+                        "image": "https://nasainarabic.net/uploads/users/c87507bef53c2c9310d51e4e157b33ed.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/c87507bef53c2c9310d51e4e157b33ed.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "خزامى قاسم",
+                        "user_id": "30",
+                        "image": "https://nasainarabic.net/uploads/users/3cb8286c235b3aa23a165bf2f843dde6.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/3cb8286c235b3aa23a165bf2f843dde6.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "ليلاس قزيز",
+                        "user_id": "224",
+                        "image": "https://nasainarabic.net/uploads/users/9bdf7e2d64babb779f5d84481362bc1a.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/9bdf7e2d64babb779f5d84481362bc1a.jpg"
+                    },
+                    {
+                        "full_name": "منير بندوزان",
+                        "user_id": "249",
+                        "image": "https://nasainarabic.net/uploads/users/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "مي الشاهد",
+                        "user_id": "7",
+                        "image": "https://nasainarabic.net/uploads/users/61b5b18d361fd0d837a435f624f8e25b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/61b5b18d361fd0d837a435f624f8e25b.jpg"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4613",
+                    "title": "ناسا"
+                }
+            ]
+        },
+        {
+            "id": "2402",
+            "category_id": "109",
+            "category": "طب الأعصاب",
+            "headline": "الالتهابات أثناء الحمل وعلاقتها بأعراض التوحد لدى الأطفال",
+            "slug": "maternal-inflammation-autism-behavior",
+            "description": "<div>\r\n<div dir=\"rtl\" style=\"clear:right;\">أوضحت دراسة دنماركية أجريت عام 2010 أن النساء اللاتي عانين من عدوى مرضية شديدة أدت للإدخال إلى المستشفى <strong>hospitalization</strong> خلال فترة الحمل، كنّ الأوفر حظاً في إنجاب أطفال مصابين بالتوحد <strong>autism</strong> (على الرغم من أن الاحتمال الكلي لإنجاب طفل يعاني من التوحد يبقى قليلاً).</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nكشفت مجموعة من البحوث من الإم آي تي <strong>MIT</strong>، وكلية الطب في جامعة ماساتشوستس <strong>University of Massachusetts Medical School</strong>، و جامعة كولورادو <strong>University of Cholorado</strong>، بالإضافة إلى مركز لانجون الطبي في جامعة نيويورك <strong>New York University Langone Medical Center</strong>، سبباً للملاحظة السابقة، إذ وجد الباحثون في دراسةٍ على فئران التجارب أن الخلايا المناعية تنشط في جسم الأم خلال الالتهاب الشديد مُنتجةً لمؤثر مناعي يسمَى الإنترلوكن 17 (<strong>IL-17</strong>)، الذي وُجد بأنه يتداخل مع النمو الدماغي.</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nوكنتيجةٍ معاكسة، وجد الباحثون أن حجب الإشارة أعلاه، قادرٌ على استعادة السلوك والبنية الطبيعية للدماغ.</div>\r\n\r\n<div dir=\"rtl\">&nbsp;</div>\r\n</div>\r\n\r\n<div style=\"clear:both;\">\r\n<div>\r\n<div dir=\"rtl\" style=\"clear:right;\">في حين قالت جلوريا تشوي <strong>Gloria Choi</strong>، البروفيسورة المساعدة في علم الدماغ والعلم المعرفي، وعضوة في منظمة الإم آي تي ماك جوفرن لأبحاث الدماغ <strong>MIT&#39;s</strong> <strong>McGovern institute for Brain Research</strong>، والمؤلفة الرئيسية للدراسة التي نُشرت في الثامن والعشرين&nbsp;من يناير/كانون الثاني في النسخة المنشورة على الإنترنت لدورية Scince: &quot;نستطيع معالجة الأم بمضاداتٍ تحجب الإنترلوكن 17 في حالة الالتهاب عند فئران التجارب، والتي بمقدورها أن تقلل نسبياً من الأعراض المشاهدَة في الذرية، على أي حال، فإننا لا نعلم نسبة إمكانية نقل التطبيق للإنسان&quot;.</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\n<strong>إيجاد الرابط</strong>\r\n\r\n<hr />\r\n<p>لوحظ في الدراسة السابقة التي تضمنت دراسة كل الأطفال المولودين في الدنمارك بين العام 1980 والعام 2005، أن العدوى الشديدة المتطلبة لدخول المستشفى والمرتبطة باحتمالية إنجاب طفلٍ مصابٍ بالتوحد، تتضَمن: الإنفلونزا (<strong>influenza</strong>)، والتهاب المعدة والأمعاء الفيروسي (<strong>viral gastroenteritis</strong>)، والتهابات المجاري البولية (<strong>urinary tract infection</strong>).&nbsp;</p>\r\n\r\n<p><br />\r\nتزيد العدوى الفيروسية الحادة خلال الثلث الأول من الحمل احتمالية إنجاب طفلٍ مصابٍ بالتوحد بمقدار ثلاثة أضعاف، أما في حال العدوى البكتيرية في الثلث الثاني من الحمل، فإن الاحتمالية تزداد بمقدار مرة ونصف.</p>\r\n\r\n<p><br />\r\nكانت شوي وزوجها، جون هوه <strong>Jun Huh</strong>، في نهاية مشوارهم الدراسي في جامعة كالتش <strong>Caltech</strong>، عندما اطلعا على الدراسة للمرة الأولى، في محاضرةٍ لبروفيسورٍ في نفس الجامعة يدعى باول باترسون <strong>Paul Patterson</strong> الذي اكتشف بأن الجزيء المناعي المسمى بالإنترلوكن 6 (<strong>IL-6</strong>) يربط ما بين الإصابة بعدوى وأعراض ما يشبه التوحد في القوارض.</p>\r\n</div>\r\n\r\n<div dir=\"rtl\">&nbsp;</div>\r\n\r\n<div>\r\n<div>\r\n<div dir=\"rtl\" style=\"clear:right;\">هوه الان هو بروفيسور مساعد في كلية الطب بجامعة ماساتشوستس وكبير مؤلفي الدراسة، وقد أبدى اهتماماً في دراسة الخلايا المناعية المسماة بالخلايا التائية المساعدة 17 (<strong>TH-17</strong>)، والمعروفة بمساهمتها في الأمراض المناعية الذاتية كما في مرض التصلب المتعدد (<strong>multiple sclerosis</strong>)، وأمراض الأمعاء الالتهابية (<strong>inflammatory bowel</strong> <strong>disease</strong>)، والتهاب المفاصل الروماتويدي (<strong>rheumatoid arthritis</strong>).</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nوما أثار تساؤلاته حول هذه الخلايا هو كونها تنشط بواسطة الإنترلوكن 6، فهل من الممكن أنها تسهم في النموذج الحيواني للتوحد المرتبط بالإِنتان الأمومي أثناء الحمل!<br />\r\nتقول تشوي: &quot;نحن نريد أن نجد هذا الرابط، نريد أن نعرف كيف يحدث الأمر برمته بدءاً من جهاز الأم الحامل المناعي وانتهاءً بدماغ الطفل&quot;.</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nوقد أطلقت تشوي مع هوه الدراسة كحمَلة دكتوراه من جامعة كولومبيا <strong>Columbia University</strong> وكلية الطب بجامعة نيويورك <strong>New York University School of</strong> <strong>medicine</strong> بالتعاون مع دان لتمان <strong>Dan Littman</strong>، بروفسور في المناعة الجزيئية في جامعة نيويورك وواحد من كبار مؤلفي الدراسة، وقد حقنوا الفئران في مرحلة الحمل بنظيرٍ صنعيٍّ للحمض الريبي النووي ثنائي الطاق <strong>double-stranded RNA</strong>، الذي يحفز جهاز المناعة بطريقةٍ مشابهةٍ للفيروسات.</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nوقد لاحظ الباحثون شذوذاً في النظام السلوكي لذريَّة هذه الأمهات بما يتضمن خللاً في السلوك الاجتماعي وتصرفاتٍ متككرةً وتواصلاً غير اعتياديٍّ وعدم القدرة على أدائه بالشكل الطبيعي، مما يؤكد النتائج التي تم الحصول عليها في الدراسات السابقة.&nbsp;</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\nوفي تجربةٍ أخرى، تم أداؤها لتمكين الفهم المعمق حول دور الخلايا التائية المساعدة 17، قام الباحثون بتعطيلها قبل إِحداثها للالتهاب في الأمهات، فلم تلاحظ التغيرات السابقة في ذرياتهم، بالإضافة إلى أن هذه التغيرات قد تلاشت عندما أعطى الباحثون الأمهات المصابات أجساماً مضادةً تحجب الإنترلوكن 17 المُنتج بواسطة الخلايا التائية المساعدة 17.<br />\r\nوهنا يُطرح سؤالٌ في غاية الأهمية أثار تساؤلات الباحثين لاحقاً، كيف يُمكن للإنترلوكن 17 التأثير في تطور الأجنة؟ والإجابة تكمن هنا في أن الخلايا الدماغية في أجنة الأمهات اللواتي يعانين من التهابٍ في فترة الحمل، تُظهر مستقبلات للإنترلوكن 17، ويُعتقد بأن التعرض لكيميائيات يحرض الخلايا لإنتاج مستقبلاتٍ أكثر للإنترلوكن 17 مُضاعفةً لأثره.<br />\r\nووجد الباحثون في الفئران قيد النمو، بعض الشذوذ في طبقات الخلايا واضحة المعالم المتواجدة عادةً في القشرة الدماغية، حيث تقع معظم العمليات المعرفية والحسية، وقد ظهرت هذه البقع غير الطبيعية في ذات المناطق القشرية في كل الذريّة المصابة، ولكنها لم تظهر في ذريات الأمهات المحجوب فيها دور خلايا التائية المساعدة 17. وأيضاً وُجدت هذه المناطق غير المنتظمة في طبقات القشرة الدماغية عند البشر المُصابين بالتوحد في بعض الدراسات التي أجريت بهذا الخصوص.</div>\r\n\r\n<div dir=\"rtl\" style=\"clear:right;\"><br />\r\n<strong>منع الإصابة بالتوحد</strong>\r\n\r\n<hr />\r\n<p>يستثمر الباحثون دراساتهم لمحاولة فهم كيفية تأثير البقع القشرية الدماغية وإنتاجها للتصرفات الشاذة المُشاهدة في الذريّات!</p>\r\n\r\n<p><br />\r\nيقول تشوي في هذا السياق: &quot;قد لاحظنا ترابطاً بين وجود هذه البقع القشرية والشذوذ السلوكي، ولكننا لا نعلم بعد ما إذا كانت مسؤولةً عن التصرفات السلوكية غير الطبيعية بشكلٍ أساسي، وفيما إذا افترضنا أنها مسؤولة، ما التغيرات التي حدثت في هذه البقع لتؤدي إلى هذا التغيير في السلوك؟&quot;.</p>\r\n\r\n<p><br />\r\nويَأمل الباحثون بأن يُؤدي عملهم لطريقةٍ تُخفف من احتماليات تطور التوحد في الأطفال الذين تُعاني أمهاتهم من عدوى والتهاباتٍ شديدةٍ في فترة الحمل، ويتم التخطيط أيضاً لدراسة تأثير الطابع والخلفية الجينية على حساسية تأثُر الفئران للالتهاب الأمومي أثناء الحمل، حيث يُعد العامل الجيني من أقوى العناصر المؤدية لظهور المرض.</p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+            "image": "https://nasainarabic.net/uploads/articles/c55b3ad3ff2f70b8968740177d5f1f28.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/c55b3ad3ff2f70b8968740177d5f1f28.jpg",
+            "publish_date": "2016-03-30 17:33:00",
+            "tags": [
+                {
+                    "id": "585",
+                    "tag": "التوحد",
+                    "url": "http://api.nasainarabic.net/tagged_articles/التوحد"
+                },
+                {
+                    "id": "4499",
+                    "tag": "الحمل",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الحمل"
+                },
+                {
+                    "id": "5020",
+                    "tag": "الالتهابات",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الالتهابات"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "راما هنداوي",
+                        "user_id": "284",
+                        "image": "https://nasainarabic.net/uploads/users/43c4715efc495b9856aaf22fd1b952cd.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/43c4715efc495b9856aaf22fd1b952cd.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "أنس الأبكع",
+                        "user_id": "242",
+                        "image": "https://nasainarabic.net/uploads/users/cb65e1998af7c307e479d1a75697b492.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/cb65e1998af7c307e479d1a75697b492.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "روان زيدان",
+                        "user_id": "205",
+                        "image": "https://nasainarabic.net/uploads/users/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg"
+                    },
+                    {
+                        "full_name": "محمد عزيز",
+                        "user_id": "74",
+                        "image": "https://nasainarabic.net/uploads/users/3213cac702bb7f30688a479279abfc97.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/3213cac702bb7f30688a479279abfc97.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "حور قادري",
+                        "user_id": "211",
+                        "image": "https://nasainarabic.net/uploads/users/d5c6b6b327b64d6d738ce217c738e2d5.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d5c6b6b327b64d6d738ce217c738e2d5.png"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4611",
+                    "title": "MIT News"
+                },
+                {
+                    "id": "4612",
+                    "title": "الورقة العلمية"
+                }
+            ]
+        },
+        {
+            "id": "2401",
+            "category_id": "5",
+            "category": "الكون",
+            "headline": "رياح فائقة السرعة قرب ثقب أسود!",
+            "slug": "astrophysicists-ultra-fast-supermassive-black-hole",
+            "description": "<p dir=\"rtl\" style=\"text-align:justify\"><strong><span style=\"color:rgb(20, 24, 35)\">توضيح فني يظهر رياحاً عنيفة من الغاز تدور قرب ثقب أسود. نرى في الصورة أن قسماً من الغاز يتصاعد إلى الداخل، بينما يندفع قسم آخر نحو الخارج.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">المصدر: NASA, and M. Weiss (Chandra X -ray Center)</span></strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"background-color:rgb(254, 254, 254); color:rgb(55, 62, 77)\">كشف بحث جديد أجراه فريق من علماء الفيزياء الفلكيّة في جامعة يورك عن أسرع رياح رُصدت في الأطوال الموجية للأشعة فوق البنفسجيّة قرب ثقبٍ أسود فائق الكتلة.</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">يقول جيسي روجرسون <strong>Jesse Rogerson</strong> الذي قاد فريق البحث كجزء من أطروحته في الدكتوراه في قسم الفيزياء والفلك في جامعة يورك: &quot;لقد رصدنا رياحاً تُقدّر سرعتها بما نسبته 20% من سرعة الضوء، حيث تبلغ نحو 200 مليون كيلومتر في الساعة، وهذا يعادل تقريباً قوة إعصار من الفئة السابعة والسبعين. وأيضاً، نمتلك أسباباً كافية تجعلنا نعتقد بوجود رياحٍ صادرة عن الكوازارات <strong>quasar</strong> تُعدّ أسرع بكثير من تلك التي رصدناها مؤخراً&quot;.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">اكتشف علماء الفلك وجود رياح الكوازار منذ أواخر ستينات القرن الماضي. كما اكتشفوا أنّ واحداً على الأقل من أربعة كوزارات يصدر رياحاً خاصة به. تُعرف الكوازارات بأنها أقراص من الغاز الساخن تتشكل حول الثقوب السوداء فائقة الكتلة في مركز المجرّات العملاقة، وهي أكبر من مدار الأرض حول الشمس وأكثر سخونة من سطح الشمس.&nbsp;</span><span style=\"color:rgb(20, 24, 35)\">تنتج الكوازارات ما يكفي من الضّوء ليجعلها مرئية عبر أرجاء الكون المرصود.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">وفي هذا الصدد، يقول باتريك هول <strong>Patrick Hall</strong>، وهو المشرف على أطروحة روجرسون للدكتوراه: &quot;تمتلك الثقوب السّوداء كتلة أكبر من الشمس بمليارات المرات، ويعود سبب ذلك إلى كونها بمثابة (آكلة فوضوية) تبتلع أي مادة تقترب منها. عندما تدور مادة ما نحو ثقب أسود، فإن جزءاً منها يندفع بعيداً بفعل حرارة وضوء الكوازار. وهذا الجزء هو بالضبط الرياح التي يقوم فريق العلماء برصدها&quot;.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">استخدم روجيرسون وفريقه بياناتٍ مستقاةً من عمليّة مسح شاملة للسّماء تُعرف بـ مسح سلون الرقميّ لتحديد التدفقات الجديدة الصادرة عن الكوازارات. وبعدما رصدوا نحو 300 عينة، اختار العلماء منها قرابة الـ 100 بهدف إجراء المزيد من الأبحاث عليها، وذلك عبر جمع بيانات باستخدام تلسكوبي مرصد جيميني في كل من هاواي وتشيلي، حيث إن لكندا الجزء الأكبر من المشاركة فيه.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">يقول هول: &quot;لم يقتصر بحثنا على تأكيد وجود رياح الأشعة فوق البنفسجية السريعة هذه، وإنما تعدّاه للكشف عن رياح جديدة تتحرك بشكل أبطأ، إذ تُقدّر سرعتها بنحو 140 مليون كيلومتر في الساعة. وبالطبع، فإننا نخطط للاستمرار في عمليات رصد الكوازرات ومراقبتها لنرى ما الجديد الذي قد نكتشفه أيضاً&quot;.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">تهدف مثل هذه الأبحاث للوصول إلى فهم أفضل للتدفقات الصادرة عن الكوازارات بالإضافة إلى سبب حدوثها.&nbsp;</span><br />\r\n<br />\r\n<span style=\"color:rgb(20, 24, 35)\">يقول روجيرسون: &quot;تلعب الرياح الصادرة عن الكوازارات دوراً مهماً في تشكيل المجرات. فعندما تتشكل المجرات، تقذف تلك الرّياح المواد إلى الخارج وتعيق بالتالي تشكّل النجوم. وعليه، لو كانت هذه الرياح غير موجودة أو أقلّ قوة، لرأينا مزيداً من النجوم في المجرات الكبيرة خلافاً لما عليه الأمر الآن&quot;.&nbsp;</span></p>",
+            "image": "https://nasainarabic.net/uploads/articles/3b7acb63e4e8a336b86084da7fcdb378.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/3b7acb63e4e8a336b86084da7fcdb378.jpg",
+            "publish_date": "2016-03-29 19:34:00",
+            "tags": [
+                {
+                    "id": "227",
+                    "tag": "النجوم",
+                    "url": "http://api.nasainarabic.net/tagged_articles/النجوم"
+                },
+                {
+                    "id": "576",
+                    "tag": "الكوزارات",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الكوزارات"
+                },
+                {
+                    "id": "1349",
+                    "tag": "الثقوب السوداء فائقة الكتلة",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الثقوب السوداء فائقة الكتلة"
+                },
+                {
+                    "id": "5019",
+                    "tag": "التدفقات الصادرة عن الكوازارات",
+                    "url": "http://api.nasainarabic.net/tagged_articles/التدفقات الصادرة عن الكوازارات"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "سومر علي",
+                        "user_id": "219",
+                        "image": "https://nasainarabic.net/uploads/users/7654643e1a4fc039a7126b39bbaf0e45.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/7654643e1a4fc039a7126b39bbaf0e45.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "خزامى قاسم",
+                        "user_id": "30",
+                        "image": "https://nasainarabic.net/uploads/users/3cb8286c235b3aa23a165bf2f843dde6.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/3cb8286c235b3aa23a165bf2f843dde6.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "ليلاس قزيز",
+                        "user_id": "224",
+                        "image": "https://nasainarabic.net/uploads/users/9bdf7e2d64babb779f5d84481362bc1a.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/9bdf7e2d64babb779f5d84481362bc1a.jpg"
+                    },
+                    {
+                        "full_name": "منير بندوزان",
+                        "user_id": "249",
+                        "image": "https://nasainarabic.net/uploads/users/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "مي الشاهد",
+                        "user_id": "7",
+                        "image": "https://nasainarabic.net/uploads/users/61b5b18d361fd0d837a435f624f8e25b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/61b5b18d361fd0d837a435f624f8e25b.jpg"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4609",
+                    "title": "phys.org"
+                }
+            ]
+        },
+        {
+            "id": "2399",
+            "category_id": "8",
+            "category": "الأرض",
+            "headline": "هل يغير كسوف الشمس درجة حرارة الأرض؟",
+            "slug": "solar-eclipse-change-earths-temperature",
+            "description": "<p dir=\"rtl\" style=\"text-align:justify\"><strong>&nbsp;التقط القمر الصناعي تيرا التابع لناسا صورة لظل الكسوف فوق الغيوم أعلى المحيط المتجمد الشمالي&nbsp;20 آذار/ مارس 2015</strong></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<strong>ملكية الصورة: NASA Goddard MODIS Rapid Response Team</strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>سؤال: هل للكسوف الشمسي تأثير على درجة حرارة الكرة الأرضية؟</strong></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أسأل الكثير من الأسئلة المجنونة، ولكن هذا السؤال ليس أحدها كما تعتقد. قام بعض الناس بطرح فكرة بناء مظلة عملاقة في الفضاء لحماية الأرض من أشعة الشمس، وللوقاية من تغيرات المناخ. عندما يحجب القمر الشمس في كسوف شمسي كلي يوماً ما، سيقوم بذلك فحسب، على مساحة أصغر ولأقصر مدة زمنية فقط. وبالنتيجة هل سيكون لذلك تأثير ملحوظ على درجات الحرارة؟ هناك العديد من الطرق التي يمكننا النظر بها إلى هذا السؤال، بل وهنالك أيضاً أسئلة متصلة علينا الإجابة عليها.&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>هيا بنا نبدأ</strong></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>ما هو الكسوف الشمسي؟</strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\">تدور الأرض حول الشمس، ويدور القمر حول الأرض بشكل عام. رغم أن المستوى المداري للأرض والقمر ليس نفسه المستوى المداري للشمس والأرض، وبين الحين والآخر تصطف هذه الأجرام على استقامة واحدة. ما يعني أن القمر يلقي بظل على الأرض. يمكن أن نسمي ذلك الكسوف الشمسي. (على عكس خسوف القمر حيث تقوم الأرض بإلقاء ظلالها على سطح القمر).</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">{{Photo #1}}</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>ولكن ماذا عن درجات الحرارة على سطح الأرض؟</strong> حسناً، إذا قام القمر بحجب جزء من ضوء الشمس، عندها ستصل كمية أقل من الضوء إلى الأرض لتقوم بتسخينها. بالنتيجة فإنه من الممكن أن يبدو ذلك وكأنه تبريد للأرض.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>من الناحية النظرية، هذا ممكن!</strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\">لننظر إلى سؤال آخر، عندما أقفز، هل سترتد الأرض؟ نعم، على الأرض أن تتحرك بطريقة ما للحفاظ على الزخم، مع ذلك، بما أن كتلة الأرض تبلغ <span class=\"math-tex\">\\(10^{23}\\)</span>ضعف كتلتي، فإن سرعة ارتدادها ستكون مساوية فقط لـ <span class=\"math-tex\">\\(10^{-23}\\)</span>&nbsp;مرة لسرعتي. حتى لو قمت بالقفز بسرعة 10 أمتار بالثانية، سرعة ارتداد الأرض ستكون صغيرة بشكل غير قابل للقياس.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">لدى قولي إن الأرض لا ترتد عندما أقفز، من الممكن أن أكون محقاً، من وجهة نظر محددة. يمكنك القول أيضاً أن الأرض ترتد نظرياً، ولكنك لا تستطيع قياس ذلك. إذاً، هذا هو جوابي الأول حول السؤال عن الكسوف الشمسي، نعم، مقدار أقل من الطاقة سيصل إلى الأرض، وبالنتيجة لن تكون حرارتها كما السابق.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong>ما هو التغير التقريبي في الطاقة الشمسية التي تصل الأرض نتيجة الكسوف؟</strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\">من الواضح أن درجة حرارة الأرض هي أكثر تعقيداً من مجرد حساب الطاقة الشمسية- لذا سأقوم بتقدير الفرق في الطاقة الشمسية (الطاقة من الشمس) التي تصل الأرض في يوم عادي وتلك التي تصلها في يوم الكسوف.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<ul dir=\"rtl\">\r\n\t<li style=\"text-align:justify\"><strong>في اليوم العادي</strong>: تقوم الشمس بإنتاج أشعة كهرومغناطيسية حاملة للطاقة. على مسافة من الأرض، الكثافة الشمسية تصل إلى 1000 واط لكل متر مربع، إذا افترضنا أن كل هذا الضوء يتم امتصاصه من قبل الأرض على مدار الأربع وعشرين ساعة، نستطيع الحصول على الطاقة الشمسية في اليوم الواحد (بالطبع، لا يتم امتصاص كل الضوء، ولكن ذلك نقطة بداية جيدة).<br />\r\n\t<br />\r\n\tمن أجل حساب هذه الطاقة، سأحتاج العبور عبر مقطع أرضي، والذي سيكون عبارة عن دائرة لها نفس نصف القطر الخاص بالأرض (<span class=\"math-tex\">\\(6.37×10^6\\)</span> متر). رغم تلقي أجزاء مختلفة من الأرض لضوء الشمس، ما يزال بإمكاني حساب الطاقة الكلية على مدار اليوم</li>\r\n</ul>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span class=\"math-tex\">\\(E_{normal}=I_sA \\Delta t=I_s(\\pi R^2) \\Delta t\\)</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span class=\"math-tex\">\\(E_{normal}=(1000 W/m^2) (\\pi) (6.37×10^6 m)^2(86400s)\\)</span><br />\r\n<span class=\"math-tex\">\\(E_{normal}=1.1 ×10^{22} J\\)</span><br />\r\n&nbsp;</p>\r\n\r\n<ul dir=\"rtl\">\r\n\t<li style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\"><strong>E normal:</strong> الطاقة التي تصل الأرض يومياً</span></li>\r\n\t<li style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\"><strong>IS:&nbsp;</strong>كمية الإشعاع الشمسي لكل متر مربع</span></li>\r\n\t<li style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\"><strong>A</strong>&nbsp;:مساحة الدائرة (هنا الكرة الأرضية)</span></li>\r\n</ul>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">تلك هي الطاقة الأساسية التي تصلنا من الشمس يومياً، وبالطبع أعلم أن اليوم الاعتيادي هنا ليس 24 ساعة، ولكن ذلك مجرد تقدير.<br />\r\n<br />\r\nالآن، من أجل الطاقة الكلية في يوم كسوف شمسي، سيكون لدينا نفس الطاقة تماماً كما في السابق، ما عدا فيما يخص الجزء من ضوء الشمس الذي حجبه القمر. وبالتالي هناك أمران، كمية ضوء الشمس المحتجب، والمدة الزمنية لذلك.<br />\r\n<br />\r\nبما أن الشمس ليست مصدر ضوء نقطي فبإمكانك الحصول على كسوف شمس جزئي من نقاط مختلفة على سطح الأرض، في هذه المواقع، ستستمر بتلقي بعض الطاقة الشمسية- ولكن ليس الكثير-. بالطبع، بإمكانك حساب المساحة الكلية للظل الجزئي والقيام بعملية تكامل للسطح لإيجاد المقدار الكلي للضوء المحجوب ولكن ليس هناك أي نقطة. عوضاً عن ذلك، لننظر إلى القمر. أي ظل على سطح الأرض هو نتيجة لمسقط مقطع عرضي للقمر. القمر فقط ما يجعل الموقع خاضعاً لكسوف كلي أو جزئي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\"><strong>الآن ماذا عن المدة الزمنية؟ </strong>لا يستمر كسوف الشمس طوال اليوم، يختلف الوقت الكلي الذي يحتاجه الظل ليعبر الأرض، لكن سأستخدم الكسوف الذي حصل في التاسع من آذار/مارس لعام 2016 كمثال، والذي استغرق كلياً 4.5 ساعة&nbsp;<br />\r\n<br />\r\n<strong>سأقوم الآن بحساب كمية الطاقة المحجوبة لضوء الشمس</strong></span></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:center\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\"><span class=\"math-tex\">\\(E_{blocked }=I_sA_{moon}\\Delta t_{eclipse}=I_s(\\pi R^2_m)(\\Delta t_e)\\)</span><br />\r\n<span class=\"math-tex\">\\(E_{blocked }=(1000 W/m^2) (\\pi) (1.74×10^6 m)^2(16200s)\\)</span></span><br />\r\n<span class=\"math-tex\">\\(E_{blocked }=1.54 ×10^{22} J\\)</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\">يمثل ذلك حوالي <strong>1%</strong> من الطاقة الشمسية الكلية في يوم عادي. بالنتيجة فإنه سيكون ليوم كسوف <strong>99 %</strong> من الطاقة الاعتيادية. هل ذلك مهم؟ حسناً، إنه أكثر مما اعتقدت. ولكن تذكر دوماً أننا نشهد كسوفاً شمسياً واحداً في العام. لذا ستكون الأيام الـ 364 الأخرى طبيعية.&nbsp;حسناً، بالعودة إلى السؤال الأصلي، <strong>هل للكسوف الشمسي تأثير على درجة حرارة الأرض؟</strong> نعم. هل هذا التأثير يمكن اكتشافه؟ على الأغلب لا.</span></p>",
+            "image": "https://nasainarabic.net/uploads/articles/79284b3848b64a3e18a9871461d8b7e3.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/79284b3848b64a3e18a9871461d8b7e3.jpg",
+            "publish_date": "2016-03-29 18:00:00",
+            "tags": [
+                {
+                    "id": "183",
+                    "tag": "الطاقة الشمسية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الطاقة الشمسية"
+                },
+                {
+                    "id": "189",
+                    "tag": "القمر",
+                    "url": "http://api.nasainarabic.net/tagged_articles/القمر"
+                },
+                {
+                    "id": "999",
+                    "tag": "الارض",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الارض"
+                },
+                {
+                    "id": "4709",
+                    "tag": "كسوف الشمس",
+                    "url": "http://api.nasainarabic.net/tagged_articles/كسوف الشمس"
+                },
+                {
+                    "id": "5017",
+                    "tag": "درجة حرارة الكرة الارضية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/درجة حرارة الكرة الارضية"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "نجوى بيطار",
+                        "user_id": "276",
+                        "image": "https://nasainarabic.net/uploads/users/27e1d923873bb644af44aae871299a41.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/27e1d923873bb644af44aae871299a41.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "خزامى قاسم",
+                        "user_id": "30",
+                        "image": "https://nasainarabic.net/uploads/users/3cb8286c235b3aa23a165bf2f843dde6.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/3cb8286c235b3aa23a165bf2f843dde6.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "أنس عبود",
+                        "user_id": "235",
+                        "image": "https://nasainarabic.net/uploads/users/57645318f31cb478243c249b96af3653.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/57645318f31cb478243c249b96af3653.jpg"
+                    },
+                    {
+                        "full_name": "منير بندوزان",
+                        "user_id": "249",
+                        "image": "https://nasainarabic.net/uploads/users/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "مي الشاهد",
+                        "user_id": "7",
+                        "image": "https://nasainarabic.net/uploads/users/61b5b18d361fd0d837a435f624f8e25b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/61b5b18d361fd0d837a435f624f8e25b.jpg"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4607",
+                    "title": "wired."
+                }
+            ]
+        },
+        {
+            "id": "2400",
+            "category_id": "7",
+            "category": "النظام الشمسي",
+            "headline": "مظاهر جديدة لبلوتو وأقماره",
+            "slug": "science-papers-reveal-new-aspects-of-pluto-and-its-moons",
+            "description": "<p dir=\"rtl\" style=\"text-align:justify\"><strong><span style=\"color:rgb(20, 24, 35)\">التقطت هذه الصورة للطبقات الضبابية على حدود كوكب بلوتو بواسطة الأداة رالف (Ralph) وكاميرا التصوير المرئي متعددة الأطياف (Multispectral Visible Imaging Camera) أو اختصاراً (MVIC)، الموجودتان على متن المركبة الفضائية &quot;نيو هورايزنز&quot; New Horizons. بإمكاننا رؤية ما يقارب 20 طبقة ضبابية، وهي تمتد أفقياً لمئات الكيلومترات، لكنها ليست بمحاذاة سطح بلوتو بشكل دقيق.</span></strong><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><strong><span style=\"color:rgb(20, 24, 35)\">على سبيل المثال، لاحظ العلماء طبقة ضبابية تمتد لثلاثة أميال (5 كم) تقريباً فوق السطح (المنطقة السفلى جهة اليسار)، والتي تنحدر إلى السطح جهة اليمين.</span></strong></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<strong><span style=\"color:rgb(20, 24, 35)\">Credits: NASA/JHUAPL/SwRI/Gladstone et al./Science 2016</span></strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:rgb(20, 24, 35)\">قبل عامٍ مضى، كان بلوتو مجرد بقعة مضيئة في أعين كاميرات المركبة الفضائية نيو هورايزنز، لا يختلف كثيراً عن ظهوره في التلسكوبات الأخرى منذ اكتشاف كلايد تومبو Clyde Tombaugh للكوكب التاسع في عام 1930.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">لكن في هذا الأسبوع في مجلة العلوم <strong>journal Science،</strong> نشر علماء نيو هورايزنز أول مجموعة شاملة من الأوراق تصف نتائج تحليق نيو هورايزنز حول بلوتو، قال آلان ستيرن<strong> Alan Stern</strong>، الباحث الرئيسي لنيو هورايزنز في معهد أبحاث الجنوب الغربي، أو اختصاراً (<strong>SwRI</strong>)، مدينة بولدر - ولاية كولورادو: &quot;هذه خمس ورقات مفصلة تماماً تعكس رؤيتنا عن بلوتو -الكشف عن الكوكب الفلكي سابقاً- ليكون عالماً حقيقياً مفعماً بالتنوع والنشاط الجيولوجي، والكيمياء السطحية الغريبة، والغلاف الجوي المعقد، والتفاعلات الغامضة مع الشمس والنظام الغريب للأقمار الصغيرة&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">{{Photo #1}}</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">منذ تسع سنواتٍ ونصف من إطلاق أسرع وأبعد مركبة فضائية وقطعها رحلة ثلاثة مليارات ميل، تصل نيو هورايزنز إلى هدفها الرئيسي (كوكب بلوتو) في 14 يوليو/ تموز عام 2015، وقد جمعت بأدواتها العلمية السبعة نحو 50 غيغابايت من البيانات المخزنة بالمسجلات الر</span><span style=\"color:rgb(20, 24, 35)\">قمية الموجودة على متن المركبة الفضائية، وجمعت معظم تلك البيانات خلال تسعة أيام من العمل المتواصل منذ أول لقاء لها بالهدف.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">كشفت أولى الصور المقربة عن منطقة كبيرة على شكل قلب منحوت على سطح كوكب بلوتو، وقال العلماء إن هذا النوع &quot;جديد&quot; في العالم الكوكبي -أكبر وألمع وأول استكشاف في المنطقة الغامضة (المنطقة الثالثة) من نظامنا الشمسي والمعروفة باسم حزام كايبر<strong> Kuiper Belt</strong>- سيكون أكثر غموضاً وإثارة للاهتمام عن النماذج المتوقعة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">للإطلاع على الأوراق العلمية المنشورة حديثاً، يرجى زيارة <a href=\"http://www.nasa.gov/feature/top-new-horizons-findings-reported-in-science\" target=\"_blank\">الرابط</a><br />\r\n<br />\r\nقال جيف مور<strong> Jeff Moore</strong>، المؤلف الرئيسي للورقة الجيولوجية من مركز أبحاث أميس التابع لناسا، موفيت فيلد - ولاية كاليفورنيا: &quot;مراقبة بلوتو وشارون عن قرب، تجعلنا نعيد النظر والتفكير كلياً في أي نوع من النشاط الجيولوجي الذي يمكن أن يستمر على تلك الكواكب المنعزلة في هذه المنطقة البعيدة من النظام الشمسي، وكان يُعتقد أن العوالم السابقة بقيت على حالها دون أي تغيير يذكر منذ تكوّن حزام كايبر&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">يقول العلماء القائمون على دراسة بنية وتركيب بلوتو، إن تنوع مظهر بلوتو الطبيعي ناتج عن تدهور التفاعل بين الميثان المتنقل وعالي التطاير والنيتروجين وأول أكسيد الكربون الجليدي مع الماء الجليدي الصلب والخامد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">قال ويل جراندي <strong>Will Grundy</strong> من مرصد لويل<strong> Lowell Observatory</strong>، مدينة فلاغستاف - ولاية أريزونا، والمؤلف الرئيسي لورقة البنية: &quot;نحن نرى العديد من الاختلافات في توزيع جليد بلوتو المتطاير التي تشير إلى دورات رائعة من عمليات التبخر والتكاثف&quot;، وأضاف قائلاً: &quot;هذه الدورات أكثر غنى بكثير من التي تحدث على الأرض، حيث يتواجد هناك مادة واحدة فقط تتكاثف وتتبخر (الماء)، هناك على بلوتو، ثلاث مواد على الأقل تتفاعل بطرقٍ لا نفهمها تماماً حتى الآن، ونحن نرى آثارها حتماً في جميع أنحاء سطح بلوتو&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n{{Photo #2}}</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">اكتشف العلماء فوق سطح بلوتو غلافه الجوي بطبقاته الضبابية، ووجدوا أنه أكثر برودةً وإحكاماً مما كان متوقعاً، وكان لذلك دوراً في كيفية فقدان بلوتو لغلافه الجوي العلوي إلى الفضاء، وكيفية تفاعله مع تيار الجسيمات المشحونة القادمة من الشمس، والمعرو</span><span style=\"color:rgb(20, 24, 35)\">فة باسم الرياح الشمسية <strong>solar wind</strong>، قال فران باجينال<strong> Fran Bagenal</strong> من جامعة كولورادو - مدينة بولدر، والمؤلف الرئيسي لورقة الجسيمات والبلازما: &quot;لقد اكتشفنا أن تقديرات فقدان بلوتو الكثير من مواد غلافه الجوي قبل نيو هورايزنز كان مبالغاً فيها&quot;، وأضاف قائلاً: &quot;كان يُعتقد أن الغلاف الجوي يهرب مثل المذنب، ولكن في الواقع، المعدل أكثر من ذلك بقليل، كما هو الحال مع الغلاف الجوي لكوكب الأرض&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">راندي جلادستون <strong>Randy Gladstone</strong> بمعهد أبحاث الجنوب الغربي (<strong>SwRI</strong>)، من سان أنطونيو، هو المؤلف الرئيسي للورقة العلمية الخاصة بنتائج الغلاف الجوي، أضاف قائلاً: &quot;أيضاً، اكتشفنا أن غاز الميثان، وليس النيتروجين، هو غاز الهروب الأساسي لبلوتو، إنه أمرٌ غريبٌ جداً، حيث يصل معدل النيتروجين بالقرب من سطح بلوتو في غلافه الجوي إلى أكثر من 99% &quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">قام العلماء أيضاً بتحليل أولى الصور التي حصلوا عليها من مسافة الاقتراب الأولى لأقمار بلوتو الصغيرة وهي &quot;ستيكس&quot; <strong>Styx</strong>، و&quot;نيكس&quot; <strong>Nix</strong>، و&quot;كيربيروس&quot; <strong>Kerberos،</strong> و&quot;هيدرا&quot; <strong>Hydra</strong>، المكتشفة بين عامي 2005 و 2012، وتتراوح أقطار الأقمار الأربعة من 25 ميلاً (40 كم) لكل من نيكس وهيدرا، إلى 6 أميال (10 كم) لكل من ستيكس وكيربيروس، لاحظ علماء المهمة كذلك أن لدى الأقمار الصناعية الصغيرة معدلات شاذة للغاية في الدوران واتجاهات قطبية غير عادية وغير منتظمة، بالإضافة إلى ذلك، تختلف الأسطح الجليدية بلمعانها وألوانها عن تلك الموجودة على بلوتو وشارون.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">لقد وجدنا دليلاً على أن بعض الأقمار تشكلت بفعل اندماج الأجسام الصغيرة، وتصل أعمار أسطح تلك الأقمار إلى 4 مليارات سنة على الأقل، وقال هال ويفر<strong> Hal Weaver،</strong> عالم المشروع نيو هورايزنز من مختبر الفيزياء التطبيقية، جامعة جونز هوبكنز في لوريل - ولاية ماريلاند، والمؤلف الرئيسي للورقة العلمية عن أقمار بلوتو الصغيرة: &quot;تعزز النتائج الأخيرة الفرضية القائلة بأن الأقمار الصغيرة تشكلت في أعقاب الاصطدام الذي أخرج نظام بلوتو وشارون الثنائي&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">ما يقرب من نصف بيانات نيو هورايزنز وصلت إلى الأرض -من مسافاتٍ حيث تحتاج الإشارات الراديوية وبسرعة الضوء نحو خمس ساعات للوصول إلى الأرض- ومع ذلك من المتوقع أن تصل البيانات المتبقية بحلول نهاية عام 2016.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><br />\r\n<span style=\"color:rgb(20, 24, 35)\">قال كورت نيبور<strong> Curt Niebur</strong>، عالم برنامج نيو هورايزنز في مقر ناسا بواشنطن: &quot;لهذا السبب نحن نستكشف&quot;، وأضاف قائلاً: &quot;اكتشافات نيو هورايزنز العديدة هي الأفضل للبشرية ومصدر إلهامنا لمواصلة رحلة استكشاف النظام الشمس وما وراءه&quot;.</span></p>",
+            "image": "https://nasainarabic.net/uploads/articles/978924d0b088f85e309b0f8affd1c65b.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/978924d0b088f85e309b0f8affd1c65b.jpg",
+            "publish_date": "2016-03-29 18:00:00",
+            "tags": [
+                {
+                    "id": "218",
+                    "tag": "بلوتو",
+                    "url": "http://api.nasainarabic.net/tagged_articles/بلوتو"
+                },
+                {
+                    "id": "2290",
+                    "tag": "نيوهورايزنز",
+                    "url": "http://api.nasainarabic.net/tagged_articles/نيوهورايزنز"
+                },
+                {
+                    "id": "2810",
+                    "tag": "سهل سبوتنيك",
+                    "url": "http://api.nasainarabic.net/tagged_articles/سهل سبوتنيك"
+                },
+                {
+                    "id": "3687",
+                    "tag": "الضباب فى غلاف بلوتو",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الضباب فى غلاف بلوتو"
+                },
+                {
+                    "id": "5018",
+                    "tag": "جليد بلوتو المتطاير",
+                    "url": "http://api.nasainarabic.net/tagged_articles/جليد بلوتو المتطاير"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "محمد عبوده",
+                        "user_id": "148",
+                        "image": "https://nasainarabic.net/uploads/users/c5a7091feff03a7f1ad5787780899aa5.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/c5a7091feff03a7f1ad5787780899aa5.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "خزامى قاسم",
+                        "user_id": "30",
+                        "image": "https://nasainarabic.net/uploads/users/3cb8286c235b3aa23a165bf2f843dde6.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/3cb8286c235b3aa23a165bf2f843dde6.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "روان زيدان",
+                        "user_id": "205",
+                        "image": "https://nasainarabic.net/uploads/users/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg"
+                    },
+                    {
+                        "full_name": "منير بندوزان",
+                        "user_id": "249",
+                        "image": "https://nasainarabic.net/uploads/users/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/5fc3aad0b7b22b008b828c9a3b4dfa35.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "مي الشاهد",
+                        "user_id": "7",
+                        "image": "https://nasainarabic.net/uploads/users/61b5b18d361fd0d837a435f624f8e25b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/61b5b18d361fd0d837a435f624f8e25b.jpg"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4608",
+                    "title": "ناسا"
+                }
+            ]
+        },
+        {
+            "id": "2398",
+            "category_id": "111",
+            "category": "علوم الأعصاب المعرفية",
+            "headline": "لماذا تختلف القدرات المعرفية من شخص لآخر؟",
+            "slug": "researchers-identify-how-mental-abilities-are-shaped-by-individual-differences-in-the-brain",
+            "description": "<div dir=\"rtl\">\r\n<div style=\"clear: right;\"><strong>باحث ما بعد الدكتوراه باتريك واتسون، الذي درس العلاقة بين الاختلافات الدماغية الفردية والقدرات المعرفية. حقوق الصورة:L. Brian Stauffer.</strong>\r\n<hr />يمتلك الجميع خليطًا مختلفًا من السمات الشخصية: بعضهم منفتح، والبعض الآخر حازم، وآخرون قلقون. تشير دراسة جديدة إلى أن الأدمغة تمتلك سماتٍ مختلفة أيضًا، وهي سمات تؤثر على العوامل التشريحية والمعرفية، كالذكاء و الذاكرة.<br />\r\nنُشرت نتائج الدراسة في الدورية <strong>NeuroImage</strong>.<br />\r\n<br />\r\n&rdquo;إن التركيز الرئيس للأبحاث في علم الأعصاب المعرفي <strong>cognitive neuroscience</strong> هو فهم كيف يأخذ الذكاء شكله من خلال الاختلافات الفردية في بنية ووظيفة الدماغ&ldquo;، هذا ما يقوله قائد الدراسة آرون ك.باربي <strong>Aron K. Barbey</strong> بروفيسور في علم الأعصاب في جامعة إيلينوي و شريك في مؤسسة بيكمان للعلوم المتقدمة والتكنولوجيا <strong>Beckman</strong> <strong>Institute for Advanced Science and Technology</strong>.<br />\r\n<br />\r\nحاول علماء الأعصاب المعرفيون لعدة أعوام إيجاد العلاقة بين مناطق محددة من الدماغ والعمليات العقلية مثل الذكاء العام <strong>general intelligence</strong> أو الذاكرة <strong>memory</strong>. لم تنجح الأبحاث حتى الآن في دمج مقاييس شاملة ومفهومة لبنية ووظيفة الدماغ من خلال تحليل واحد.</div>\r\n\r\n<div style=\"clear: right;\"><br />\r\nقام باربي وفريقه بقياس حجم وشكل كل الخصائص الموجودة في الدماغ.<br />\r\n<br />\r\nيقول باتريك واتسون، وهو باحث في مؤسسة بيكمان، والمؤلف الأول للورقة البحثية: &rdquo;تمكّنا من رؤية حزم الألياف العصبية <strong>nerve fiber bundles</strong> ، وسبل المادة البيضاء <strong>white-matter tracts</strong>، والحجم <strong>volume</strong>، وسماكة قشرة الدماغ <strong>cortical thickness</strong> ، والجريان الدموي<strong> blood flow</strong>&ldquo;، ويضيف: &rdquo;لقد كنا قادرين على رؤية المتغيرات المعرفية مثل الوظائف التنفيذية والذاكرة العاملة في آنٍ واحد&ldquo;.<br />\r\n<br />\r\nاستطاع الباحثون من خلال تقنية إحصائية تدعى تحليل العنصر المستقل<strong> [1]</strong> أن يجمعوا المقاييس المرتبطة مع بعضها إلى أربع سمات فريدة. تمكّنت هذه السمات الأربع مجتمعةً من تفسير الاختلافات التشريحية لأدمغة الأفراد.</div>\r\n\r\n<div style=\"clear: right;\"><br />\r\nكان المسبب الرئيس لهذه السمات هو الاختلافات في الخصائص الحيوية للدماغ، وكذلك حجم وشكل الدماغ، بالإضافة لأعمار الأفراد، ولكنَّ العوامل السابقة فشلت في تفسير الاختلافات بين القدرات المعرفية بين الأشخاص.<br />\r\n<br />\r\nقام الباحثون لاحقًا بفحص الاختلافات الدماغية التي لم تُفسر من قبل السمات الأربع، ليجدوا أن هذه الاختلافات المتبقية تمثّل الاختلافات الفردية في الذكاء والذاكرة.<br />\r\nوقد قال الدكتور باربي: &rdquo;استطعنا تحديد الخصائص المعرفية والتشريحية التي تتنبأ بالذكاء العام وتفسّر الاختلافات الفردية من خلال شبكة دماغية خاصة والمخصصة للذكاء، وهي الشبكة الجبهية الجدارية <strong>fronto-parietal network</strong>&ldquo;.<br />\r\n<br />\r\nوأضاف الدكتور واتسون أن الخصائص الأربع المذكورة في الدراسة هي طريقة فريدة لفحص مدى اختلاف الأدمغة بين الأشخاص، وهذه المعرفة تساعد الباحثين في دراسة الاختلافات الدقيقة المرتبطة بالقدرات المعرفية.<br />\r\n<br />\r\nيتابع واتسون: &rdquo;تختلف الأدمغة كما تختلف الوجوه، وساعدت هذه التجربة في فهم كيف يبدو الدماغ الطبيعي، ومن خلال بحثنا عن اختلافات غير متوقعة في الدماغ تمكنا من التركيز على المناطق من الدماغ المتعلقة بأمور كالذاكرة والذكاء.</div>\r\n\r\n<div style=\"clear: right;\"><br />\r\nنشر الباحثون بياناتهم إلى العامة عبر منصة على الإنترنت تدعى الإطار العلمي المفتوح <strong>Open Science Framework</strong> لتشجيع الدراسات التي تسعى لفهم بنية ووظيفة الدماغ&ldquo;.<br />\r\n<br />\r\nاعتمد البحث على العمل بدعم مكتب مدير الذكاء القومي <strong>the Office of the Director of National Intelligence</strong> و نشاط مشاريع الأبحاث المتقدمة في الذكاء <strong>Intelligence Advanced Research Projects Activity</strong>.<br />\r\n<br />\r\n<strong>ملاحظات:</strong>\r\n\r\n<hr />\r\n<p><strong>[1]</strong> تحليل العنصر المستقل <strong>Independent component analysis</strong>: هي تقنية إحصائية وحسابية للكشف عن العوامل الخفية التي تكمن وراء مجموعات من المتغيرات العشوائية.</p>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>",
+            "image": "https://nasainarabic.net/uploads/articles/5c7fb702ef68d6df99dfe104dd89b5a7.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/5c7fb702ef68d6df99dfe104dd89b5a7.jpg",
+            "publish_date": "2016-03-29 14:33:00",
+            "tags": [
+                {
+                    "id": "333",
+                    "tag": "الذكاء",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الذكاء"
+                },
+                {
+                    "id": "3793",
+                    "tag": "الذاكرة",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الذاكرة"
+                },
+                {
+                    "id": "5014",
+                    "tag": "القدرات المعرفية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/القدرات المعرفية"
+                },
+                {
+                    "id": "5015",
+                    "tag": "السمات الشخصية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/السمات الشخصية"
+                },
+                {
+                    "id": "5016",
+                    "tag": "تحليل العنصر المستقل",
+                    "url": "http://api.nasainarabic.net/tagged_articles/تحليل العنصر المستقل"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "دانية حمود",
+                        "user_id": "287",
+                        "image": "https://nasainarabic.net/uploads/users/05cc90a20ab462e2ac968664e299ba79.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/05cc90a20ab462e2ac968664e299ba79.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "عبد الرحمن سوالمه",
+                        "user_id": "154",
+                        "image": "https://nasainarabic.net/uploads/users/fdf724139a99e4dce6e0dc65d0eabc1b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/fdf724139a99e4dce6e0dc65d0eabc1b.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "عمر الكردي",
+                        "user_id": "277",
+                        "image": "https://nasainarabic.net/uploads/users/29efb3d89f40230a186f8a295b463536.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/29efb3d89f40230a186f8a295b463536.jpg"
+                    },
+                    {
+                        "full_name": "أرساني خلف",
+                        "user_id": "261",
+                        "image": "https://nasainarabic.net/uploads/users/cb63bb65c1a3a1334a9ff085a8b23183.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/cb63bb65c1a3a1334a9ff085a8b23183.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "مكي حسين",
+                        "user_id": "301",
+                        "image": "https://nasainarabic.net/uploads/users/816832ee9c2f9e4d2f0fdb9a971f049c.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/816832ee9c2f9e4d2f0fdb9a971f049c.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "حور قادري",
+                        "user_id": "211",
+                        "image": "https://nasainarabic.net/uploads/users/d5c6b6b327b64d6d738ce217c738e2d5.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d5c6b6b327b64d6d738ce217c738e2d5.png"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4606",
+                    "title": "ILLINOIS"
+                }
+            ]
+        },
+        {
+            "id": "2382",
+            "category_id": "100",
+            "category": "طاقة وبيئة",
+            "headline": "هل يعيق المجال المغناطيسي لكابلات الطّاقة تحت الماء الحياة البحريّة؟",
+            "slug": "magnetism-underwater-power-cables-doesnt-deter-sea-life-slideshow",
+            "description": "<p dir=\"rtl\"><strong>أظهرت ثلاث دراسات أنَّ الحيوانات البحريَّة تعبر وتستوطن كابلات الجهد العالي&nbsp;</strong></p>\r\n\r\n<p dir=\"rtl\"><strong>&nbsp;تنقل كابلات الطّاقة الكهرباء عبر الماء إلى الجزر، وتنقلها من محطّات الطّاقة على الشَّواطئ كمزرعة الرّياح هذه قبالة سواحل الدنمارك، وقد أشارت دراسات جديدة إلى أنّ تلك الكابلات لا تزعج الحياة البحريّة حولها.</strong><br />\r\n<strong>حقوق الصّورة: (CGP GREY/FLICKR.COM CC BY 2.0)</strong></p>\r\n\r\n<hr />\r\n<p dir=\"rtl\">أشارت ثلاث دراسات حديثة في نيو أورليانز إلى أنَّ كهرباء الجهد العالي المَّارة عبر كابلات الطّاقة تحت الماء لا تُقلق الحياة البحرية حولها. وهوّن هذا العمل المخاوف حول إمكانية تكدير محطّات إنتاج الطّاقة البحريّة ومن خلال عنفات الرّياح ومولّدات الطّاقة بواسطة حركة المد والجزر للمجتمعات البحريّة.<br />\r\n<br />\r\nبتتبع حركة الأسماك وسرطانات البحر حول الكابلات الكهربائية تحت الماء، أظهرت الدّراسات أن الكائنات البحريّة لا تنفر من المجالات المغناطيسيّة المنبعثة من هذه الكابلات، بل إن إحدى الدّراسات وجدت أن الكابلات الغليظة قد يتم استغلالها كمَواطن اصطناعية تؤوي المجتمعات البحريَّة.<br />\r\n<br />\r\nوقالت آن بول <strong>Ann Bull</strong>، عالمة الأحياء البحريّة في مكتب إدارة طاقة المحيطات بمدينة كاماريلو <strong>Camarillo </strong>في كاليفورنيا: &quot;هناك القليل من المخاوف الآن&quot;، حيث قامت بول بتقديم دراستين من هذه الدّراسات في السّادس والعشرين من شباط/فبراير 2016.خلال اجتماع علوم المحيطات في الاتحاد الجيوفيزيائي الأميركي.<br />\r\n<br />\r\nبدأت القصّة في ثمانينات القرن الماضي حين ظهر أوّل صدام بين كابلات الاتّصالات تحت الماء والحياة البحريّة: فقد خدع المجال الكهربائي المنبعث من الكابلات أسماكَ القرش مما دفعها لقضم هذه الكابلات تاركة خلفها بعضاً من أسنانها في أغلب الأحيان. وبتغليف الكابلات بالمواد العازلة، تمّ التخلّص من المجالات الكهربائيّة وبالتّالي توقَّف هجوم أسماك القرش، إلا أنَ المجالات المغناطيسيّة التي تولّدها الكابلات ما زالت موجودة. وقد أظهرت التّجارب المخبريّة أنّ العديد من الكائنات البحريّة يمكنها استشعار المجالات المغناطيسيّة حتّى الضّعيفة منها نسبيًّا ممّا أثار المخاوف من أنَّ الكابلات قد تكون بمثابة &quot;أسوار كهربائيّة&quot; تُخل بالحياة البحريّة.<br />\r\n<br />\r\nوقد شعر الصيّادون التجاريون على وجه الخصوص بالقلق من أن سرطانات البحر قد لا تتمكّن من اجتياز الكابلات البحريّة لتصل إلى المصائد في بحثها عن الطّعام. ولاختبار ذلك بَنَت بول وزملاؤها أقفاصاً بمصيدتين، يتطلّب الوصول إلى إحداها عبور السّرطانات لخط كهربائي فعّال، لم تجد سرطانات دنغنس <strong>Dungeness </strong>(اسمها العلمي&nbsp;<br />\r\nميتا كارسِنس ماجِستر <strong>Metacarcinus magister</strong>) والسرطانات الصّخريّة (روماليون أنتِناريوم <strong>Romaleon antennarium</strong>) أيّ مشكلة في عبور الخط، وأظهرت التّجربة بعد مئات المحاولات أن السّرطانات اختارت كلا المصيدتين بنسبٍ متساوية تقريباً.<br />\r\n<br />\r\n{{Photo #1}}<br />\r\n<br />\r\n{{Photo #2}}<br />\r\n<br />\r\nوفي دراسةٍ أخرى راقبت بول وزملاؤها الحياةَ البحريّة في ثلاث مناطق من قاع البحر لمدّة ثلاث سنوات. في المنطقة الأولى كابلٌ تمر به الكهرباء، وفي الثّانية كابل غير عامل، والثّالثة لا يوجد بها أي كابل. جذبت المنطقتان اللتان تمر بهما كابلات الأنواعَ والأعدادَ نفسها من حيوانات شقائق النّعمان وغيرها من الأحياء البحريّة. في الواقع، إنّ أعداد الأسماك في المنطقة الأولى أو الثَّانية زاد عن ضعف عددها في الثّالثة، وكذلك بالنّسبة لعدد اللافقاريّات التي زادت عن أربعة أضعاف عددها في المنطقة الخالية من الكابلات.<br />\r\n<br />\r\nوبقياس المجال المغناطيسي النّاتج عن الكابلات العاملة، وجدت بول وزملاؤها أنّ قوّة هذا المجال تضعف بسرعة كلّما ابتعدنا عن الكابل، وقالت بول إنّ المجال المغناطيسي على بعد متر من الكابل يتضائل بحيث يصعب تمييزه عن الموجات المتداخلة في المنطقة المحيطة. وحتّى فوق سطح الكابل مباشرةً حيث المجال المغناطيسي الأقوى، لا تبدو الكائنات البحريّة منزعجة.<br />\r\n<br />\r\nوفي الدّراسة الثّالثة التي قُدّمت أيضاً في السّادس والعشرين من شهر فبراير/شباط 2016. قامت عالمة سلوك الحيوان في جامعة كاليفورنيا بمدينة ديفيس ميجان وايمان <strong>Megan Wyman</strong>، وزملاؤها بمراقبة كابل الطّاقة البالغ طوله 85 كيلومترًا والذي يشق خليج سان فرانسيسكو، واستخدم الفريق أجهزة الاستشعار الصّوتي لمراقبة تأثير تشغيل الكابل عام 2010 على هجرة أسماك السّلمون، حيث وجد الباحثون أنّ الكابل لا يعيق هجرة أسماك سلمون شينوك الفتيّة (أونكورينكس تشا تشا <strong>Oncorhynchus tshawytscha</strong>) عبر الخليج من الأنهار الدّاخليّة.<br />\r\n<br />\r\nتقول جينيفر هاركر- كليمش <strong>Genevra Harker-Klimes</strong> العالمة البحريّة في المختبر الوطني شمال غرب المحيط الهادي في مدينة سكوِم <strong>Sequim</strong> في واشنطن: &quot; من الجيّد معرفة أنّهم لم يجدوا أي تأثير، هناك القليل من الأمور المُغفَلة التي تحتاج لمزيدٍ من البحث، ولكن بصورة عامّة هذه أخبار جيّدة بالنسبة لإنتاج الطّاقة عبر البحار&quot;.</p>",
+            "image": "https://nasainarabic.net/uploads/articles/e09fc62586075c99a8ed926da00a4585.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/e09fc62586075c99a8ed926da00a4585.jpg",
+            "publish_date": "2016-03-29 13:48:00",
+            "tags": [
+                {
+                    "id": "4980",
+                    "tag": "مولدات الطاقة",
+                    "url": "http://api.nasainarabic.net/tagged_articles/مولدات الطاقة"
+                },
+                {
+                    "id": "4981",
+                    "tag": "الكائنات البحرية",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الكائنات البحرية"
+                },
+                {
+                    "id": "4982",
+                    "tag": "عنفات الرياح",
+                    "url": "http://api.nasainarabic.net/tagged_articles/عنفات الرياح"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "محمود القاقه",
+                        "user_id": "285",
+                        "image": "https://nasainarabic.net/uploads/users/2eef1ce4aa5b3592411ea94c00a7bcdf.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/2eef1ce4aa5b3592411ea94c00a7bcdf.png"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "أحمد فاضل حللي",
+                        "user_id": "282",
+                        "image": "https://nasainarabic.net/uploads/users/0fb5cd6cef38fe837cd618c67598eafd.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/0fb5cd6cef38fe837cd618c67598eafd.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "طارق نصر",
+                        "user_id": "19",
+                        "image": "https://nasainarabic.net/uploads/users/fc4af5047f7702f57b476ece120f7bfb.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/fc4af5047f7702f57b476ece120f7bfb.jpg"
+                    },
+                    {
+                        "full_name": "ليلاس قزيز",
+                        "user_id": "224",
+                        "image": "https://nasainarabic.net/uploads/users/9bdf7e2d64babb779f5d84481362bc1a.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/9bdf7e2d64babb779f5d84481362bc1a.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "حور قادري",
+                        "user_id": "211",
+                        "image": "https://nasainarabic.net/uploads/users/d5c6b6b327b64d6d738ce217c738e2d5.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d5c6b6b327b64d6d738ce217c738e2d5.png"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4583",
+                    "title": "ScienceNews"
+                }
+            ]
+        },
+        {
+            "id": "2397",
+            "category_id": "111",
+            "category": "علوم الأعصاب المعرفية",
+            "headline": "هل هي نعمة أننا ننسى حين نتعلم؟",
+            "slug": "forgetting-to-learn",
+            "description": "<div dir=\"rtl\">\r\n<div style=\"clear:right;\"><strong>اكتشف العلماء آليةً عصبية في أدمغة الفئران تشير إلى أننا فعليًا ننسى بينما نحن نتعلم.</strong>\r\n<hr />\r\n<p>دائمًا ما يقال إنه حالما تتعلم قيادة الدراجة الهوائية، لن تنسى ذلك مطلقًا، ولكن بحثًا جديدًا يقترح أنه بينما نحن نتعلم، يحاول الدماغ فعليًا أن ينسى.</p>\r\n\r\n<p><br />\r\nقام بهذه الدراسة علماء في معهد مختبر الأحياء الجزيئية الأوروبي <strong>European Molecular Biology Laboratory</strong> واختصارًا <strong>EMBL</strong>، وجامعة بابلو أولافايد في أشبيلية، إسبانيا (<strong>university of Pablo Olavide in Sevilla، Spain</strong>) ونشرت في دورية (<strong>Nature Communications</strong>).<br />\r\n<br />\r\nيقول كورنيليوس كروس (<strong>Cornelius Gross</strong>) الذي قاد البحث في <strong>EMBL</strong>: &quot;هذه أول مرة يتم فيها الربط بين مسار (<strong>pathway</strong>) في الدماغ للنسيان، مع محوٍ فعليّ للذكريات&quot;.</p>\r\n\r\n<p><br />\r\n{{Photo #1}}على أبسط مستوى، يتضمن التعلم صناعة روابط وتذكرها، درس كروس (<strong>Gross</strong>) وزملاؤه الحصين في أدمغة الفئران (الحصين هو منطقة الدماغ التي لطالما عُرفت بأنها تساعد على تكوين الذكريات &ndash; المترجم)، تدخل المعلومات هذا الجزء من الدماغ من خلال ثلاثة مسالك مختلفة، وبينما يتم تعزيز الذكريات، تزداد الروابط بين العصبونات (<strong>neurons</strong>) قوةً وتماسكًا على طول المسار الرئيس (<strong>main route</strong>).<br />\r\n<br />\r\nعندما قطع العلماء هذا المسلك الرئيس، وجدوا أن الفئران تصبح غير قادرة على تعلم الاستجابة البافلوفية (<strong>Pavlovian response</strong>)، وهي أن يربط الفأر صوتًا ما إلى نتيجةٍ حتمية (كتقديم الطعام للفئران دائمًا بعد أن يسمعوا الصوت نفسه - المترجم)، وأن يتوقع تلك النتيجة، ولكن إذا كانت تلك الفئران قد تعلمت ذلك الارتباط من قبل أن يقوم العلماء بوقف تدفق المعلومات في ذلك المسار الرئيس، سوف نجد أن الفئران ما زالت تستطيع استرجاع تلك الذكرى، وهذا يؤكد بأن هذا المسار مسؤولٌ عن تكوين الذكريات، ولكنه غير أساسيّ لتذكرها، ولذلك يعتقد العلماء بأن تذكر الذكريات مشتملٌ في المسار الثاني داخل الحصين.<br />\r\n<br />\r\nولكن وجد العلماء أن إغلاق المسار الرئيس كانت له عواقب غير متوقعة، فقد ضعفت الروابط الموجودة على امتداده، ما يعني أن الذكرى كانت تُمحى.</p>\r\n</div>\r\n\r\n<div style=\"clear:right;\"><br />\r\nيقول أغنس غروارت (<strong>Agnes Gruart</strong>) من جامعة بابلو أولافايد: &quot;ببساطة، إغلاق هذا المسار وجبَ ألا يكون له أي تأثيرٍ على قوته&quot;، ثم أضاف: &quot;حين تعمقنا أكثر بالبحث، وجدنا أن نشاطًا في أحد المسارين الآخرين كان مسؤولًا عن هذا الإضعاف&quot;.<br />\r\n<br />\r\nمما يثير الدهشة هنا، أن هذه الدفعة باتجاه النسيان تحدث فقط عند المواقف التي تتضمن تعلمًا، حيث أنه عندما أغلق العلماء المسار الرئيس داخل الحصين تحت ظروف أخرى، لم تتغير قوى الروابط فيه.</div>\r\n\r\n<div style=\"clear:right;\"><br />\r\nيقول غروس: &quot;هناك تفسير واحد لهذا، وهو أنه هناك فضاء محدود داخل الدماغ، فعندما نتعلم، يجب أن يضعف رابطٌ ما ليترك مجالًا للبقية&quot;، ثم يضيف: &quot;لتتعلم أشياءَ جديدة، يجب أن تنسى أشياء تعلمتها سابقًا&quot;.<br />\r\n<br />\r\nوصل الباحثون لهذه النتائج باستخدام فئران معدلة وراثيًّا، ولكن وبمساعدة مختبر ماجا كونز (<strong>Maja Kohns Lab</strong>) في <strong>EMBL</strong>، برهن العلماء أنه من الممكن إنتاج دواء يفعل مسار &quot;النسيان&quot; في الدماغ من غير الحاجة إلى الهندسة الوراثية. وهذه المقاربة، كما يقولون، قد تكون مشوقةً لمن يبحث عن طرق لمساعدة الناس على نسيان التجارب المؤلمة.</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>",
+            "image": "https://nasainarabic.net/uploads/articles/87133f27aea8823a100d09e7b43302f3.jpg",
+            "thumbnail": "https://nasainarabic.net/uploads/articles/thumbnails/87133f27aea8823a100d09e7b43302f3.jpg",
+            "publish_date": "2016-03-28 19:39:00",
+            "tags": [
+                {
+                    "id": "4290",
+                    "tag": "الحصين",
+                    "url": "http://api.nasainarabic.net/tagged_articles/الحصين"
+                },
+                {
+                    "id": "5012",
+                    "tag": "النسيان",
+                    "url": "http://api.nasainarabic.net/tagged_articles/النسيان"
+                },
+                {
+                    "id": "5013",
+                    "tag": "التعلم",
+                    "url": "http://api.nasainarabic.net/tagged_articles/التعلم"
+                }
+            ],
+            "contributors": {
+                "ترجمة": [
+                    {
+                        "full_name": "رائد حفظي",
+                        "user_id": "263",
+                        "image": "https://nasainarabic.net/uploads/users/d6b5bdc08caff3e4b32ba226175ae5db.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d6b5bdc08caff3e4b32ba226175ae5db.jpg"
+                    }
+                ],
+                "مراجعة الترجمة": [
+                    {
+                        "full_name": "عبد الرحمن سوالمه",
+                        "user_id": "154",
+                        "image": "https://nasainarabic.net/uploads/users/fdf724139a99e4dce6e0dc65d0eabc1b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/fdf724139a99e4dce6e0dc65d0eabc1b.jpg"
+                    }
+                ],
+                "تحرير": [
+                    {
+                        "full_name": "أرساني خلف",
+                        "user_id": "261",
+                        "image": "https://nasainarabic.net/uploads/users/cb63bb65c1a3a1334a9ff085a8b23183.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/cb63bb65c1a3a1334a9ff085a8b23183.jpg"
+                    },
+                    {
+                        "full_name": "روان زيدان",
+                        "user_id": "205",
+                        "image": "https://nasainarabic.net/uploads/users/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/2d9f9c94b4bc7f2f676a0bd913608a7b.jpg"
+                    }
+                ],
+                "غرافيكس": [
+                    {
+                        "full_name": "علي كاظم",
+                        "user_id": "157",
+                        "image": "https://nasainarabic.net/uploads/users/b7bc87217e1cfb2e4a84e18b5ede0882.jpg",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/b7bc87217e1cfb2e4a84e18b5ede0882.jpg"
+                    }
+                ],
+                "نشر": [
+                    {
+                        "full_name": "حور قادري",
+                        "user_id": "211",
+                        "image": "https://nasainarabic.net/uploads/users/d5c6b6b327b64d6d738ce217c738e2d5.png",
+                        "thumbnail": "https://nasainarabic.net/uploads/users/thumbnails/d5c6b6b327b64d6d738ce217c738e2d5.png"
+                    }
+                ]
+            },
+            "sources": [
+                {
+                    "id": "4603",
+                    "title": "EMBL"
+                },
+                {
+                    "id": "4604",
+                    "title": "الورقة العلمية"
+                },
+                {
+                    "id": "4605",
+                    "title": "الصورة"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "previous_page": null,
+        "next_page": "http://api.nasainarabic.net/articles/main/2"
+    }
+}

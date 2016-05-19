@@ -1,0 +1,50 @@
+<ion-view>
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
+
+    <div class="bar bar-subheader" >
+        <h2 ng-bind-html="subTitle" class="title post-title"></h2>
+       
+    </div>
+    <!--Tags-->
+    <ion-content class="has-subheader posts bckg-container">
+
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+                          ng-click="openSocialLink('https://facebook.com/NasaInArabic')">
+                    {{facebookText}}
+                    <i class="icon ion-social-facebook positive"></i>
+                </ion-item>
+         
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+            ng-click="openSocialLink('https://twitter.com/NasaInArabic')">
+                    {{twitterText}}
+                    <i class="icon ion-social-twitter positive"></i>
+                </ion-item>
+       
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+                          ng-click="openSocialLink('https://youtube.com/user/NasaInArabic')">
+                    {{youtubeText}}
+                    <i class="icon ion-social-youtube positive"></i>
+                </ion-item>
+        
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+                          ng-click="openSocialLink('https://instagram.com/NasaInArabic')">
+                    {{instagramText}}
+                    <i class="icon ion-social-instagram positive"></i>
+                </ion-item>
+        
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+                          ng-click="openSocialLink('https://plus.google.com/+NasaInArabic')">
+                    {{googleText}}
+                    <i class="icon ion-social-google positive"></i>
+                </ion-item>
+         
+        <ion-item class="item item-icon-right right-menu-tab" menu-close href="#" 
+                          ng-click="openSocialLink('https://linkedin.com/company/nasainarabic')">
+                    {{linkedInText}}
+                    <i class="icon ion-social-linkedin positive"></i>
+                </ion-item>
+        
+    </ion-content>
+</ion-view>

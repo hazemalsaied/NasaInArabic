@@ -1,0 +1,46 @@
+<ion-view>
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
+
+    <!--Search Area-->
+    <div class="bar bar-subheader item-input-inset bar-light">
+        <label class="item-input-wrapper">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="search" ng-model="query" placeholder="بحث">
+        </label>
+    </div>
+
+    <ion-content class="has-subheader posts bckg-container">
+
+        <ion-refresher pulling-text="أحدث المواد..." on-refresh="doRefresh()">
+        </ion-refresher>
+
+        <list class="videos-lists" ng-repeat="post in posts | filter: query">
+
+            <div class="item post-container"  href="{{getArticleUrl(post.id)}}" >
+                <!--Thumbnail-->
+                <a  href="{{getArticleUrl(post.id)}}">
+                    <img class="full-image post-image" ng-src="{{post.image}}"/>
+                </a>
+                <div>
+                    <!--Post title-->
+                    <a href="{{getArticleUrl(post.id)}}">
+                        <h2 ng-bind-html="post.headline" class="post-title"></h2>
+                    </a>
+                    <!--Share Area-->
+                    <button class="button button-icon button-clear ion-android-share-alt " ng-click="shareAnywhere(post.title, post.title, post.attachments[0].url, post.id) ">
+                    </button>
+
+                    <!--Post Date-->
+                    <p class="post-date">{{post.publish_date |limitTo : 10 }}</p>
+                    <h3 ng-show="post.category" ng-bind-html="post.category" class="category" ></h3>
+                    <h3 ng-show="!post.category" ng-bind-html="category.title" class="category" ></h3>
+                </div>
+            </div>
+        </list>
+
+        <ion-infinite-scroll ng-if="!noMoreItemsAvailable" on-infinite="loadMore()" 
+            distance="1%" spinner="android"></ion-infinite-scroll>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,17 @@
+
+
+The two endpoints, /articles/{site_slug}/{page_number}?, /category/{category_id}/{page_number}? need to have the same structure. 
+
+In the endpoint /videos/{site_slug}/{page_number}?, rename the date to be as in /article/{article_id} publish_date. And add description section.
+
+The images endpoint is not working
+
+There is no  tag endpoint
+
+In /article/{article_id} i need the slug of the category and if it’s possible i need that the images of an article to be included in the description section as html. 
+	{{photo #1}} should become something like <img src=”sdklskd.jpg”> inside the description section.
+
+For the /articles/{site_slug}/{page_number}? endpoint i need the most possible details to be added, it’s the basic service i use. All details of this endpoint  /article/{article_id} should be contained in /articles/{site_slug}/{page_number}?
+I need the details of the writer, editors, translators .. to be included in the previous endpoints.
+
+In general, try to unify keys for the articles, videos, images .. 

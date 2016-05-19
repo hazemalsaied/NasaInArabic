@@ -1,0 +1,25 @@
+API EndPoints
+
+/sites						Display a list of available sites a.k.a Missions
+
+## Pages
+/pages/{site_slug}				Display a list of pages in a given site
+/page/{page_id}					Display page content
+
+## Categories
+/categories/{site_slug}				Display a nested list of categories in a given site
+/category/{category_id}/{page_number}?		Display articles in a category -- DESC ORDER USING publish_date
+
+## Articles
+/articles/{site_slug}/{page_number}?		Display a list of articles in a given site -- DESC ORDER USING publish_date
+/article/{article_id}				Display article content
+
+## Users
+/users						Display full users list
+/user/{user_id}					Display given user info
+
+## Videos
+/videos/{site_slug}/{page_number}?		Display a list of videos in a given site
+
+## Images
+/images/{site_slug}/{page_number}?		Display a list of images in a given site

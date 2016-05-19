@@ -1,0 +1,78 @@
+<ion-view>
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
+
+    <ion-content>
+
+        <div class="card">
+            <div class="imgCon" ng-show="user.image">
+                <img class="contributerImage"   ng-src="{{user.image}}" alt="{{user.full_name}} Photo">
+            </div>    
+            <div ng-show="user.full_name">
+                <div class="item item-divider">
+                    الاسم :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab">{{ user.full_name }}
+                    <i class="icon ion-person positive"></i>
+                </ion-item>
+            </div>
+            <div ng-show="user.bio">
+                <div class="item item-divider">
+                    نبذة :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab item-text-wrap">{{ user.bio }}
+                </ion-item>
+            </div>
+            <div ng-show="user.website">
+                <div class="item item-divider">
+                    الموقع الالكتروني :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab">{{ user.website }}
+                <i class="icon ion-link positive"></i></ion-item>
+            </div>
+                       
+            <div ng-show="user.facebook">
+                <div class="item item-divider">
+                    على فيسبوك :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab"  href="#" 
+                          ng-click="openSocialLink('https://facebook.com/', user.facebook)">
+                    {{user.full_name}}
+                    <i class="icon ion-social-facebook positive"></i>
+                </ion-item>
+            </div>
+            <div ng-show="user.twitter">
+                <div class="item item-divider">
+                    على تويتر :
+                </div>
+
+               <ion-item class="item item-icon-right right-menu-tab"  href="#" 
+                ng-click="openSocialLink('https://twitter.com/, user.twitter')">
+                     {{user.full_name}}
+                    <i class="icon ion-social-twitter positive"></i>
+                </ion-item>
+            </div>
+            <div ng-show="user.views">
+                <div class="item item-divider">
+                    عدد المشاهدات :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab">{{ user.views }}
+                <i class="icon ion-eye positive"></i>
+                </ion-item>
+                
+            </div>
+            <div ng-show="user.reg_date">
+                <div class="item item-divider">
+                    تاريخ التسجيل :
+                </div>
+                <ion-item class="item item-icon-right right-menu-tab">
+                    {{user.reg_date | limitTo: 10}}
+                <i class="icon ion-calendar positive"></i>
+                </ion-item>
+            </div>
+        </div>
+
+    </ion-content>
+
+</ion-view>

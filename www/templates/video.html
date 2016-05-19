@@ -1,0 +1,80 @@
+<ion-view>
+    <ion-nav-title>
+        <a class="headerTitle" href="#/app/posts"> {{pageTitle}}</a>
+    </ion-nav-title>
+
+    <!--Title Area-->
+    <div class="bar bar-subheader singlePostBar" ng-repeat="post in posts | filter: {id: whichPost }">
+
+        <!--Post Title-->
+        <h2 ng-bind-html="post.headline" class="title post-title"></h2>
+
+        <!--Share Area-->
+        <button class="button button-icon button-clear ion-android-share-alt " ng-click="shareAnywhere(post.headline, post.headline, post.thumbnail, post.id) ">
+        </button>
+    </div>
+
+    <!--
+    <ion-slide-box does-continue="false" active-slide="activeSlide" show-pager="false" auto-play="false" on-slide-changed="refreshSlideInfo(index)">
+
+
+        <ion-slide class="postSlide" ng-repeat="post in posts">
+-->
+
+    <ion-content class="has-subheader">
+
+        <div ng-show="!getImage" class="video-container">
+            <iframe src="{{convertToEmbedLink(post.url)}}" frameborder="0" width="560" height="315"></iframe>
+
+        </div>
+        <img ng-show="getImage" ng-src="{{post.image}}" class="item item-image  thumbnail" />
+
+        <!--Post date and comments number-->
+        <div class="date-comments item-text-wrap">
+            <span class="onBrowser" ng-click="openSocialLink('https://nasainarabic.net/r/a/' + post.id)">{{onBrowser}} </span>
+            <span class="date ">{{post.publish_date | limitTo: 10}}</span>
+        </div>
+
+        <div class="post-content">
+            <ion-item class="item item-text-wrap" ng-click="browsePost(post.short_URL)">
+                <span>{{browsePostText}}</span>
+            </ion-item>
+            <div ng-show="post.description" ng-bind-html="post.description"></div>
+        </div>
+
+        <!--Categores and Tgas-->
+        <div class="list details bckg-container ">
+
+            <div class="item item-divider">
+                وسوم المقالة :
+            </div>
+
+            <!--Tags-->
+            <div ng-show="post.tags" ng-repeat="tag in post.tags " class=" cat-container bckg-container ">
+                <ion-item href="#/app/tag/{{tag.tag}} " class="detail ">
+                    <i class="icon ion-pricetags "></i> {{tag.tag}}
+                </ion-item>
+            </div>
+            <div class="item item-divider">
+                ساهم في إعداد المقالة :
+            </div>
+            <!--contributers-->
+            <div ng-show="post.contributors" ng-repeat="(contributorKey,contributorValue)  in post.contributors " class=" cat-container bckg-container ">
+
+                <ion-item ng-repeat="(spec,details)  in contributorValue " class=" item-avatar contributer" href="#/app/users/{{details.user_id}}">
+                    {{details.full_name}} - {{contributorKey}}
+                    <img ng-src="{{details.thumbnail}}">
+                </ion-item>
+            </div>
+        </div>
+
+    </ion-content>
+
+
+
+    <!--
+        </ion-slide>
+    </ion-slide-box>
+-->
+
+</ion-view>
